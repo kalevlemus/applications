@@ -1,0 +1,12 @@
+{
+  "cascades": false,
+  "name": "Pausa",
+  "order": 3,
+  "parent": "kLxFi7Mw",
+  "path": "dummyEncloser.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "BFgDqPHO",
+  "value": "dummyEncloser",
+  "values": {}
+}

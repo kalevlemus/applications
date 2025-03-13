@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "PhaserSceneFunction CREATE Presentacion",
+  "order": 1000,
+  "parent": "xedNJS2f",
+  "path": "PhaserSceneFunction.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ugMU2gqP",
+  "value": "PhaserSceneFunction",
+  "values": {
+    "stage": "create"
+  }
+}

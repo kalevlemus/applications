@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "updateSpriteProperty CollideWorldBounds",
+  "order": 1000,
+  "parent": "fhivDM4t",
+  "path": "updateSpriteProperty.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "5sb0LXsT",
+  "value": "updateSpriteProperty",
+  "values": {
+    "spriteName": "mario",
+    "property": "CollideWorldBounds",
+    "newValue": "false"
+  }
+}

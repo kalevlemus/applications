@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "PlaySound gameOverSound play",
+  "order": 1000,
+  "parent": "fhivDM4t",
+  "path": "PlaySound.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "sZTJU09V",
+  "value": "PlaySound",
+  "values": {
+    "soundOptions": "play",
+    "asset": "gameOverSound"
+  }
+}

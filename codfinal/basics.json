@@ -1,0 +1,35 @@
+{
+  "_id": "kcfREQOdO0sLyUFa",
+  "createdAt": 1728598516302,
+  "modifiedAt": 1732051283955,
+  "lastBuild": 1732051283954,
+  "settings": {
+    "name": "codfinal",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "codfinal",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://codfinallite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/codfinal"
+    },
+    "stagging": {
+      "apiURL": "https://codfinallite.aptugo.app",
+      "type": "Local",
+      "folder": "codfinal_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://codfinallite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/codfinal"
+    },
+    "production": {
+      "apiURL": "https://codfinallite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "codfinal",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://codfinallite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/codfinal"
+    }
+  }
+}

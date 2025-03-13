@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "delayContext": true,
+  "name": "PhaserScene Presentacion",
+  "order": 1000,
+  "parent": "PcsxHDUW",
+  "path": "PhaserScene.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "xedNJS2f",
+  "usesDelays": [
+    "variableDeclarations"
+  ],
+  "value": "PhaserScene",
+  "values": {
+    "name": "Presentacion"
+  }
+}

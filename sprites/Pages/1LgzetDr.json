@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "AssetLoader Boton Start",
+  "order": 1000,
+  "parent": "K4BVnvTG",
+  "path": "AssetLoader.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "1LgzetDr",
+  "value": "AssetLoader",
+  "values": {
+    "name": "botonstart",
+    "useAsset": "PTpJyCBp"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "AssetLoader winSound",
+  "order": 1000,
+  "parent": "8P1G0lEx",
+  "path": "AssetLoader.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "DUdOqTbK",
+  "value": "AssetLoader",
+  "values": {
+    "useOther": true,
+    "useOtherAsset": "Wv4fOseX",
+    "name": "winSound"
+  }
+}

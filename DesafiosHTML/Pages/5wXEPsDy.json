@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "SATASo66",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "render": "(elem) => { return elem.values.Content }",
+  "renderTag": "span",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "5wXEPsDy",
+  "value": "text",
+  "values": {
+    "Content": "<a href=\"#cinco\" target=\"_self\">Capítulo 5</a>"
+  }
+}

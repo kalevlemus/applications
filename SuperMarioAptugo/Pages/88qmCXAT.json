@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "updateSpriteProperty mario brinca",
+  "order": 1000,
+  "parent": "UdfKFxTN",
+  "path": "updateSpriteProperty.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "88qmCXAT",
+  "value": "updateSpriteProperty",
+  "values": {
+    "spriteName": "mario",
+    "property": "Velocity",
+    "newValue": "0, -250"
+  }
+}

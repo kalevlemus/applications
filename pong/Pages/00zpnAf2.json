@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "condition Puntos",
+  "order": 1000,
+  "parent": "UJkRS8pP",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "00zpnAf2",
+  "value": "condition",
+  "values": {
+    "condition": "this.ball.x < 0 || this.ball.x > 600",
+    "useInCode": true
+  }
+}

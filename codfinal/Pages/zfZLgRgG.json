@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "MRwIPM3o",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "zfZLgRgG",
+  "value": "text",
+  "values": {
+    "Content": "<u>@cod_al_limite</u>"
+  }
+}

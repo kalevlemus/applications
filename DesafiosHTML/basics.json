@@ -1,0 +1,35 @@
+{
+  "_id": "HCu9bWVvbubVGr3T",
+  "createdAt": 1687458230302,
+  "modifiedAt": 1726004975902,
+  "lastBuild": 1726004975902,
+  "settings": {
+    "name": "DesafiosHTML",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "DesafiosHTML",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://desafioshtmllite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/desafioshtml"
+    },
+    "stagging": {
+      "apiURL": "https://desafioshtmllite.aptugo.app",
+      "type": "Local",
+      "folder": "desafiosHTML_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://desafioshtmllite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/desafioshtml"
+    },
+    "production": {
+      "apiURL": "https://desafioshtmllite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "DesafiosHTML",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://desafioshtmllite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/desafioshtml"
+    }
+  }
+}

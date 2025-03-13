@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Data Table",
+  "parent": "CNgknK5D",
+  "path": "dataTable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "kg3BtVAJ",
+  "value": "dataTable",
+  "values": {
+    "table": "USDdDarP",
+    "editProcedure": "Internal"
+  }
+}

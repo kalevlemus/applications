@@ -1,0 +1,12 @@
+{
+  "cascades": false,
+  "name": "dummyEncloser colisiones",
+  "order": 3,
+  "parent": "ZuEayRGs",
+  "path": "dummyEncloser.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "b7qZS4rD",
+  "value": "dummyEncloser",
+  "values": {}
+}

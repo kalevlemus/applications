@@ -1,0 +1,35 @@
+{
+  "_id": "E1uBfEoqGwzUlFmF",
+  "createdAt": 1724363695036,
+  "modifiedAt": 1724798337083,
+  "lastBuild": 1724798337083,
+  "settings": {
+    "name": "o",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "o",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://olite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/o"
+    },
+    "stagging": {
+      "apiURL": "https://olite.aptugo.app",
+      "type": "Local",
+      "folder": "o_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://olite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/o"
+    },
+    "production": {
+      "apiURL": "https://olite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "o",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://olite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/o"
+    }
+  }
+}

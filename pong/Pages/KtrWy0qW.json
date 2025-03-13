@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "checkCollision WallBottom",
+  "order": 1000,
+  "parent": "cF8iGfWM",
+  "path": "checkCollision.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "KtrWy0qW",
+  "value": "checkCollision",
+  "values": {
+    "functionCollision": "collider",
+    "objectB": "ball",
+    "objectA": "wallBottom",
+    "functionCall": "cambiarDireccion"
+  }
+}

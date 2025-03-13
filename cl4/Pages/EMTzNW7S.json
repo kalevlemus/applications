@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "hretAD2o",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "EMTzNW7S",
+  "value": "text",
+  "values": {
+    "Content": "<span>(you can edit me at the Page Manager)</span>"
+  }
+}

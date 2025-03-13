@@ -1,0 +1,35 @@
+{
+  "_id": "sMSHv2aFzmfHydSv",
+  "createdAt": 1724971077347,
+  "modifiedAt": 1725400791191,
+  "lastBuild": 1725400791190,
+  "settings": {
+    "name": "BONUS",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "BONUS",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://bonuslite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/bonus"
+    },
+    "stagging": {
+      "apiURL": "https://bonuslite.aptugo.app",
+      "type": "Local",
+      "folder": "BONUS_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://bonuslite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/bonus"
+    },
+    "production": {
+      "apiURL": "https://bonuslite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "BONUS",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://bonuslite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/bonus"
+    }
+  }
+}

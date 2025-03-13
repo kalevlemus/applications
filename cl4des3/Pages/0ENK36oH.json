@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "Lang Strings Exist?",
+  "open": false,
+  "parent": "PzpEtuX5",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "0ENK36oH",
+  "value": "condition",
+  "values": {
+    "condition": "typeof langStrings !== 'undefined'",
+    "useInCode": true
+  }
+}

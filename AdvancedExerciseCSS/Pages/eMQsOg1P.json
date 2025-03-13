@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "qx4w3V3u",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "eMQsOg1P",
+  "value": "text",
+  "values": {
+    "Content": "Facebook",
+    "className": "theme.WebsiteName"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "delayContext": true,
+  "name": "PhaserScene EscenaForest",
+  "order": 1000,
+  "parent": "PcsxHDUW",
+  "path": "PhaserScene.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "TKkToRM7",
+  "usesDelays": [
+    "variableDeclarations"
+  ],
+  "value": "PhaserScene",
+  "values": {
+    "name": "Escenaforest"
+  }
+}

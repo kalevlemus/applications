@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "updateSpriteProperty Alpha",
+  "parent": "klonvqNf",
+  "path": "updateSpriteProperty.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "dedxUN0I",
+  "value": "updateSpriteProperty",
+  "values": {
+    "property": "Alpha",
+    "spriteName": "mario",
+    "newValue": "0"
+  }
+}

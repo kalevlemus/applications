@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "BDf8LhAs",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "xy7kU4TE",
+  "value": "text",
+  "values": {
+    "Content": "Seccion Tres"
+  }
+}

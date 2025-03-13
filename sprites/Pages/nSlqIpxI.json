@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "CreateGroup mosco",
+  "parent": "dmF68EaS",
+  "path": "CreateGroup.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "nSlqIpxI",
+  "value": "CreateGroup",
+  "values": {
+    "groupName": "moscos",
+    "addPhysics": true
+  }
+}

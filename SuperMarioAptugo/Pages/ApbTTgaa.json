@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "PlayAnims mariowalk",
+  "parent": "XUP4OFXK",
+  "path": "PlayAnims.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ApbTTgaa",
+  "value": "PlayAnims",
+  "values": {
+    "variableName": "mario",
+    "playAnims": "mariowalk"
+  }
+}

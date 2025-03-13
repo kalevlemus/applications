@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "updateSpriteProperty",
+  "parent": "XUP4OFXK",
+  "path": "updateSpriteProperty.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "8y2IWMTH",
+  "value": "updateSpriteProperty",
+  "values": {
+    "property": "Velocity",
+    "spriteName": "mario",
+    "newValue": "50"
+  }
+}

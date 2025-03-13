@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "PlaySound jumpSound",
+  "parent": "4WIuDQT0",
+  "path": "PlaySound.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "TML3ukAm",
+  "value": "PlaySound",
+  "values": {
+    "soundOptions": "play",
+    "asset": "jumpSound"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "ChangeScene",
+  "order": 1000,
+  "parent": "Qie6TgRc",
+  "path": "ChangeScene.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Ed5Z064V",
+  "value": "ChangeScene",
+  "values": {
+    "sceneName": "LVLOne"
+  }
+}

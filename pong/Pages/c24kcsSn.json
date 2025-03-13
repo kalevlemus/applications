@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "ChangeScene",
+  "order": 1000,
+  "parent": "NSqH9rXD",
+  "path": "ChangeScene.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "c24kcsSn",
+  "value": "ChangeScene",
+  "values": {
+    "sceneName": "Start"
+  }
+}

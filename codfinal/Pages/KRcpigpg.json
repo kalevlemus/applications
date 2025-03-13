@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "KtgzdVfA",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "KRcpigpg",
+  "value": "text",
+  "values": {
+    "Content": "QUIERES PARTICIPAR EN UN GIVEAWAY Y GANAR PREMIOS ?!!"
+  }
+}

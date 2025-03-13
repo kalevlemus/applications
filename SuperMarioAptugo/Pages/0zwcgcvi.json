@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "PlayAnims",
+  "order": 1000,
+  "parent": "S28mraHf",
+  "path": "PlayAnims.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "0zwcgcvi",
+  "value": "PlayAnims",
+  "values": {
+    "playAnims": "goombaMuere",
+    "variableName": "goomba",
+    "withoutThis": true
+  }
+}

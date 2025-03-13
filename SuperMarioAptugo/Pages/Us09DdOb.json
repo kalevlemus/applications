@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "SceneVariable goomba array positionX",
+  "order": 1000,
+  "parent": "wvLCLTzl",
+  "path": "SceneVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Us09DdOb",
+  "value": "SceneVariable",
+  "values": {
+    "name": "goombaArray",
+    "type": "Array<any>",
+    "value": "[430, 700, 1100, 1580]"
+  }
+}

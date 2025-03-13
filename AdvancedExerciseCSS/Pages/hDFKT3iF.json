@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "div",
+  "parent": "dqvrAFTP",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "hDFKT3iF",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.goibibo"
+  }
+}

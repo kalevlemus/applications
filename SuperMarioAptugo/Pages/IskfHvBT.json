@@ -1,0 +1,12 @@
+{
+  "cascades": false,
+  "name": "dummyEncloser mapa y control de sonido",
+  "order": 3,
+  "parent": "ZuEayRGs",
+  "path": "dummyEncloser.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "IskfHvBT",
+  "value": "dummyEncloser",
+  "values": {}
+}

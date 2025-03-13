@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "x4fXksv8",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "lK5877Ox",
+  "value": "text",
+  "values": {
+    "Content": "NOVEDADES"
+  }
+}

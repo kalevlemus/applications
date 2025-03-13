@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "updateSpriteProperty",
+  "parent": "IskfHvBT",
+  "path": "updateSpriteProperty.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ccGa13yB",
+  "value": "updateSpriteProperty",
+  "values": {
+    "spriteName": "sound",
+    "property": "stopAll",
+    "withoutSet": true
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "parent": "4UCcnJRk",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "A1w0TBS1",
+  "value": "simpleLink",
+  "values": {
+    "destination": "https://www.amazon.com/-/es/",
+    "tagToUse": "A",
+    "target": "_blank"
+  }
+}

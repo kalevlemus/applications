@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "delayContext": true,
+  "name": "PhaserScene Pong",
+  "order": 1000,
+  "parent": "3nLLJ75i",
+  "path": "PhaserScene.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "LGQLIIaJ",
+  "usesDelays": [
+    "variableDeclarations"
+  ],
+  "value": "PhaserScene",
+  "values": {
+    "name": "start"
+  }
+}

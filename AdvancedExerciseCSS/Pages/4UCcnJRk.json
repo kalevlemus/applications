@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "Website",
+  "parent": "ziim2rf6",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "4UCcnJRk",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.Website"
+  }
+}

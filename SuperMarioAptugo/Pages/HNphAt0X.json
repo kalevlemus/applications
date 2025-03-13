@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "SceneVariable mario",
+  "order": 1000,
+  "parent": "9vO8OFfF",
+  "path": "SceneVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "HNphAt0X",
+  "value": "SceneVariable",
+  "values": {
+    "name": "mario",
+    "type": "any"
+  }
+}

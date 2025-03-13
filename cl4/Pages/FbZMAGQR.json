@@ -1,0 +1,14 @@
+{
+  "cascades": true,
+  "name": "sidebar",
+  "parent": "42a5Vw2v",
+  "path": "sidebar.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "FbZMAGQR",
+  "value": "sidebar",
+  "values": {
+    "colorSchema": "Greens",
+    "open": "true"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "div",
+  "parent": "Wn4rVWlK",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "u324Gafu",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.botonregresar"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "8kX8Z96T",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "n1ExMyxu",
+  "value": "text",
+  "values": {
+    "Content": "Seccion Dos"
+  }
+}

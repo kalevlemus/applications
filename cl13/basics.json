@@ -1,0 +1,35 @@
+{
+  "_id": "Ja5r6gHf61kaeS1T",
+  "createdAt": 1727991640740,
+  "modifiedAt": 1727993118655,
+  "lastBuild": 1727993118654,
+  "settings": {
+    "name": "cl13",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "cl13",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://cl13lite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/cl13"
+    },
+    "stagging": {
+      "apiURL": "https://cl13lite.aptugo.app",
+      "type": "Local",
+      "folder": "cl13_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://cl13lite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/cl13"
+    },
+    "production": {
+      "apiURL": "https://cl13lite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "cl13",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://cl13lite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/cl13"
+    }
+  }
+}

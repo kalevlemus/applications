@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "YTLink",
+  "order": 1000,
+  "parent": "kag7TXRT",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "renderTag": "a",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "cD4sduDU",
+  "value": "simpleLink",
+  "values": {
+    "destination": "https://m.youtube.com/?hl=es",
+    "tagToUse": "A",
+    "target": "_blank"
+  }
+}

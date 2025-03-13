@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "SceneVariable pausa",
+  "order": 1000,
+  "parent": "BFgDqPHO",
+  "path": "SceneVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "TWL9vl8F",
+  "value": "SceneVariable",
+  "values": {
+    "name": "pausa",
+    "type": "any"
+  }
+}

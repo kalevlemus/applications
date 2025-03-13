@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "div",
+  "parent": "22sIWmFu",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "zeIXriR5",
+  "value": "div",
+  "values": {
+    "class": "theme.mainarea"
+  }
+}

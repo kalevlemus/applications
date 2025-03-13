@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "SceneSpriteAnimsArriba",
+  "order": 1000,
+  "parent": "ZBSfvxTs",
+  "path": "SceneSpriteAnims.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "WNqw0RhP",
+  "value": "SceneSpriteAnims",
+  "values": {
+    "spriteName": "miroslav",
+    "key": "miroslavArriba",
+    "frames": "[27,28,29,30,31,32,33,34,35]",
+    "frameRate": "7",
+    "repeat": "-1"
+  }
+}

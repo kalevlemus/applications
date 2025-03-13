@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Data Table",
+  "parent": "dC2V3XID",
+  "path": "dataTable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "SlxMZEEb",
+  "value": "dataTable",
+  "values": {
+    "table": "n1W0oOwx",
+    "editProcedure": "Internal"
+  }
+}

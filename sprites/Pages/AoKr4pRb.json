@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "SceneSprite albert",
+  "order": 1000,
+  "parent": "DVktIcTw",
+  "path": "SceneSprite.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "AoKr4pRb",
+  "value": "SceneSprite",
+  "values": {
+    "asset": "albert",
+    "posX": "400",
+    "posY": "300",
+    "collide": true,
+    "Physics": true
+  }
+}

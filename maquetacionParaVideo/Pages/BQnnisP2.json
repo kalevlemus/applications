@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "divUno",
+  "parent": "PiPAFqUl",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "BQnnisP2",
+  "value": "text",
+  "values": {
+    "Content": "divUno"
+  }
+}

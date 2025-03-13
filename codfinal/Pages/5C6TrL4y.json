@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "ContenedorImagen1",
+  "order": 1000,
+  "parent": "xLVrO6ap",
+  "path": "Container.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "5C6TrL4y",
+  "value": "Container",
+  "values": {}
+}

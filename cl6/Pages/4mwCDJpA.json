@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "uncontrolledInput",
+  "order": 50,
+  "parent": "kag7TXRT",
+  "path": "uncontrolledInput.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "4mwCDJpA",
+  "value": "uncontrolledInput",
+  "values": {
+    "type": "text"
+  }
+}

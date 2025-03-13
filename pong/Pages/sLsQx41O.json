@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "SceneSound",
+  "parent": "FGKWvpXC",
+  "path": "SceneSound.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "sLsQx41O",
+  "value": "SceneSound",
+  "values": {
+    "asset": "beep",
+    "volume": "0.3"
+  }
+}

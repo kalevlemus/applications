@@ -1,0 +1,35 @@
+{
+  "_id": "BXJa9Vu2XkDrkNTu",
+  "createdAt": 1726780493892,
+  "modifiedAt": 1727991567138,
+  "lastBuild": 1727991567137,
+  "settings": {
+    "name": "panaderia",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "panaderia",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://panaderialite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/panaderia"
+    },
+    "stagging": {
+      "apiURL": "https://panaderialite.aptugo.app",
+      "type": "Local",
+      "folder": "panaderia_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://panaderialite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/panaderia"
+    },
+    "production": {
+      "apiURL": "https://panaderialite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "panaderia",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://panaderialite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/panaderia"
+    }
+  }
+}

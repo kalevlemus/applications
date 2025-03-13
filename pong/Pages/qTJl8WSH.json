@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "AssetLoader Win",
+  "parent": "pJiyEP3e",
+  "path": "AssetLoader.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "qTJl8WSH",
+  "value": "AssetLoader",
+  "values": {
+    "name": "win",
+    "useOther": true,
+    "useOtherAsset": "cQmE2LtU"
+  }
+}

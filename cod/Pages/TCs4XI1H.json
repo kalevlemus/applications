@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "autolinking",
+  "parent": "EosVXp48",
+  "path": "autolinking.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "TCs4XI1H",
+  "value": "autolinking",
+  "values": {
+    "fromLink": "H4k2Uxrs"
+  }
+}

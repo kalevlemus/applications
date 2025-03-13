@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "PhaserSceneFunction Preload",
+  "order": 1000,
+  "parent": "d3fpkmry",
+  "path": "PhaserSceneFunction.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "8P1G0lEx",
+  "value": "PhaserSceneFunction",
+  "values": {
+    "stage": "preload"
+  }
+}

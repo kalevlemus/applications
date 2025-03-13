@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "condition goombas normal",
+  "parent": "qpMNS7p8",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "bW2zTZT2",
+  "value": "condition",
+  "values": {
+    "condition": "Math.abs(distanceX) > 150",
+    "useInCode": true,
+    "elseOption": ""
+  }
+}

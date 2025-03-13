@@ -1,0 +1,20 @@
+{
+  "cascades": false,
+  "name": "button",
+  "parent": "BrRagRBq",
+  "path": "button.tpl",
+  "prevent_delete": false,
+  "render": "(elem) => { return elem.values.ButtonText }",
+  "renderTag": "button",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "qzkqWfXS",
+  "value": "button",
+  "values": {
+    "ButtonText": "Ejercicio Uno",
+    "Color": "primary",
+    "icon": "Send",
+    "Variant": "contained",
+    "fullWidth": false
+  }
+}

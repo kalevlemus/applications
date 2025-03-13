@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "AssetLoader Pausa",
+  "order": 1000,
+  "parent": "5sfZrTI3",
+  "path": "AssetLoader.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "T9Go5zxa",
+  "value": "AssetLoader",
+  "values": {
+    "name": "pausa",
+    "useAsset": "JpCH4kUp"
+  }
+}

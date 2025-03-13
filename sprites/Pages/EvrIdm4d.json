@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "condition",
+  "order": 1000,
+  "parent": "gInNRb1S",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "EvrIdm4d",
+  "value": "condition",
+  "values": {
+    "condition": "this.keys.W.isDown && this.miroslav.body.onFloor()",
+    "useInCode": true
+  }
+}

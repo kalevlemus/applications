@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "SeccionDosHijo",
+  "parent": "MiwwzRCR",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "qZ5okBwa",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.SeccionDosHijo"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "AddToStaticGroup",
+  "order": 1000,
+  "parent": "NNQLvcgO",
+  "path": "AddToStaticGroup.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "3fIgTamE",
+  "value": "AddToStaticGroup",
+  "values": {
+    "variableNameGroup": "plataformas"
+  }
+}

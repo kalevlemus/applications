@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "condition",
+  "order": 1000,
+  "parent": "p8VPU0Tl",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "S28mraHf",
+  "value": "condition",
+  "values": {
+    "condition": "this.mario.body.bottom <= goomba.body.top &&\n        this.mario.body.right > goomba.body.left &&\n        this.mario.body.left < goomba.body.right",
+    "useInCode": true
+  }
+}

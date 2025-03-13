@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "MPqzCqFM",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "pM2qfXTE",
+  "value": "text",
+  "values": {
+    "Content": "Amazon",
+    "className": "theme.WebsiteName"
+  }
+}

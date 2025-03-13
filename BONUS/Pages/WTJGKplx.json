@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Head",
+  "parent": "rcRRNNvA",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "WTJGKplx",
+  "value": "div",
+  "values": {
+    "class": "theme.tableHeading"
+  }
+}

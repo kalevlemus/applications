@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "TXIXTnxw",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "cbSBL5l3",
+  "value": "text",
+  "values": {
+    "Content": "REGRESAR"
+  }
+}

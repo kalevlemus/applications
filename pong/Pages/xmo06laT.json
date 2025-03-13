@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "checkCollision PaddleV",
+  "order": 1000,
+  "parent": "cF8iGfWM",
+  "path": "checkCollision.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "xmo06laT",
+  "value": "checkCollision",
+  "values": {
+    "functionCollision": "collider",
+    "objectA": "paddleV",
+    "objectB": "ball",
+    "functionCall": "cambiarDireccion"
+  }
+}

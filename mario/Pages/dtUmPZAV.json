@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "navLink",
+  "parent": "s3kpcsCi",
+  "path": "navLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "dtUmPZAV",
+  "value": "navLink",
+  "values": {
+    "Destination": "/",
+    "destination": "/",
+    "linkText": "Home"
+  }
+}

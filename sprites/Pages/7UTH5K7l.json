@@ -1,0 +1,12 @@
+{
+  "cascades": false,
+  "name": "dummyEncloser",
+  "order": 3,
+  "parent": "Iz5oXgfe",
+  "path": "dummyEncloser.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "7UTH5K7l",
+  "value": "dummyEncloser",
+  "values": {}
+}

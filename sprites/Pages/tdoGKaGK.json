@@ -1,0 +1,22 @@
+{
+  "cascades": false,
+  "name": "ObjectEnemy goombas",
+  "order": 1000,
+  "parent": "IBpT3SCQ",
+  "path": "ObjectEnemy.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "tdoGKaGK",
+  "value": "ObjectEnemy",
+  "values": {
+    "variablenameforloop": "item",
+    "variableName": "goombas",
+    "asset": "goomba",
+    "setX": "Phaser.Math.Between(250, 2500)",
+    "setY": "450",
+    "collide": true,
+    "bounce": "1.001,0",
+    "setScaleX": "2",
+    "setScaleY": "2"
+  }
+}

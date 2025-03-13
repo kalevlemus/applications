@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "tG3hOwn0",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "1AOHuk10",
+  "value": "text",
+  "values": {
+    "Content": "<u>CODalLimite_fb</u>"
+  }
+}

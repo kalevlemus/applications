@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "divA",
+  "parent": "1cLX8pMW",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "GR2cAI0M",
+  "value": "text",
+  "values": {
+    "Content": "divA"
+  }
+}

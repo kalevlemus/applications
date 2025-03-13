@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Capítulo Uno",
+  "parent": "3vQdFmL5",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "SGsBNLDz",
+  "value": "div",
+  "values": {
+    "tag": "div"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "MainAreaTres",
+  "parent": "CdDIoWbp",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "nmDoWwWC",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "id": "",
+    "class": "theme.mainareatres"
+  }
+}

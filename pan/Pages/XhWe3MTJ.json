@@ -1,0 +1,23 @@
+{
+  "cascades": false,
+  "name": "Bar",
+  "order": 1000,
+  "parent": "5ln5T2Ba",
+  "path": "Bar.tpl",
+  "prevent_delete": false,
+  "settings": [
+    {
+      "name": "Packages",
+      "value": "\"recharts\": \"^2.1.13\","
+    }
+  ],
+  "type": "element",
+  "unique_id": "XhWe3MTJ",
+  "value": "Bar",
+  "values": {
+    "values": "KFSkfl0x",
+    "legendType": "square",
+    "barSize": "20",
+    "colors": "109CFA"
+  }
+}

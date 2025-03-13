@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "SceneSound themeSound",
+  "order": 1000,
+  "parent": "MMu4i176",
+  "path": "SceneSound.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "NXL2JmTl",
+  "value": "SceneSound",
+  "values": {
+    "asset": "themeSound",
+    "volume": "0.2"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "1ShtwPwL",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "render": "(elem) => { return elem.values.Content }",
+  "renderTag": "span",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "cyCRixSn",
+  "value": "text",
+  "values": {
+    "Content": "<mark>Aptugo es una herramienta visual de desarrollo de software, que permite realizar todo tipo de aplicaciones de manera <u>rápida, segura</u> y con calidad <u>profesional</u>.</mark>\n<br/>\nDesde un punto de vista técnico, la plataforma se funda en el concepto de “<u>Atomic Programming</u>” o “<u>Programación Atómica</u>”. <strong>Cada elemento que provee Aptugo posee su propio código independiente y encapsulado.</strong> Estos pueden combinarse entre sí, permitiendo la incorporación de diferentes funciones a la aplicación en la cual se esté trabajando. Es decir, <mark>podemos armar y desarmar la aplicación según lo necesitemos, <strong>con solo arrastrar y soltar elementos (método mejor conocido como “<u>drag and drop</u></strong>”).</mark>\n<br/>\nAdemás, al ser un <u>generador de software totalmente visual</u>, <mark>permite crear aplicaciones completas de forma <u>rápida y sencilla</u>, solucionando uno de los principales problemas de la programación actual:<strong><u>el tiempo.</u></strong></mark>\n"
+  }
+}

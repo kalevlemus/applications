@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "parent": "7AWr5FWp",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "uGT2s1t9",
+  "value": "simpleLink",
+  "values": {
+    "destination": "https://www.booking.com/index.es-ar.html",
+    "tagToUse": "A",
+    "target": "_blank"
+  }
+}

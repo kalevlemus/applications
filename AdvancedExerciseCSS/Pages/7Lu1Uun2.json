@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "ktVORW8x",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "7Lu1Uun2",
+  "value": "text",
+  "values": {
+    "Content": "Myntra",
+    "className": "theme.WebBottomName"
+  }
+}

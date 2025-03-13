@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "1K6t4nGI",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "5JoX6vDx",
+  "value": "text",
+  "values": {
+    "Content": "CLASES META"
+  }
+}

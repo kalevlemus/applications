@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "AreaPrincipal",
+  "parent": "oA7MDaus",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "ouZ7pKwH",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.AreaPrincipal"
+  }
+}

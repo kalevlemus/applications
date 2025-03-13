@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "condition",
+  "parent": "tNEZqH6r",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "4WIuDQT0",
+  "value": "condition",
+  "values": {
+    "useInCode": true,
+    "condition": "this.keys.W.isDown && this.mario.body.onFloor()"
+  }
+}

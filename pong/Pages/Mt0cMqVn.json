@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "updateSpriteProperty",
+  "order": 1000,
+  "parent": "yMTwqy4l",
+  "path": "updateSpriteProperty.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Mt0cMqVn",
+  "value": "updateSpriteProperty",
+  "values": {
+    "spriteName": "scene",
+    "property": "pause",
+    "withoutSet": true
+  }
+}

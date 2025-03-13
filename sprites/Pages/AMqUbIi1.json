@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "SceneVariable puntaje",
+  "order": 1000,
+  "parent": "kLxFi7Mw",
+  "path": "SceneVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "AMqUbIi1",
+  "value": "SceneVariable",
+  "values": {
+    "name": "puntaje",
+    "type": "any"
+  }
+}

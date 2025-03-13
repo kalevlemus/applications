@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "TagPvs5h",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "AQIpotQc",
+  "value": "text",
+  "values": {
+    "Content": "CALL OF DUTY BLACK OPS 6 ES EL COD MAS JUGADO EN 24 HORAS EN STEAM ¡EXITAZO!"
+  }
+}

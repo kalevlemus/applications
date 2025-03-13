@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "updateSpriteProperty",
+  "order": 1000,
+  "parent": "AuNk8481",
+  "path": "updateSpriteProperty.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ThfHL3Vm",
+  "value": "updateSpriteProperty",
+  "values": {
+    "spriteName": "ball",
+    "property": "Position",
+    "newValue": "301,200"
+  }
+}

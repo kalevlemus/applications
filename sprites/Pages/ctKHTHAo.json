@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "TimeoutGame pausa",
+  "parent": "L6swzvKs",
+  "path": "TimeoutGame.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ctKHTHAo",
+  "value": "TimeoutGame",
+  "values": {
+    "valuesTimes": "100"
+  }
+}

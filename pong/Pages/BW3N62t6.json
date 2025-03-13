@@ -1,0 +1,19 @@
+{
+  "cascades": false,
+  "name": "SceneImage Mapa",
+  "order": 1000,
+  "parent": "6sFQrupe",
+  "path": "SceneImage.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "BW3N62t6",
+  "value": "SceneImage",
+  "values": {
+    "asset": "estadio",
+    "posX": "300",
+    "posY": "200",
+    "displayX": "600",
+    "displayY": "400",
+    "isInteractive": false
+  }
+}

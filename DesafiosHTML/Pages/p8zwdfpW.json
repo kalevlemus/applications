@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "T7mmLOvf",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "render": "(elem) => { return elem.values.Content }",
+  "renderTag": "span",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "p8zwdfpW",
+  "value": "text",
+  "values": {
+    "Content": "Capítulo 2 &emsp;&emsp;&emsp;&nbsp;"
+  }
+}

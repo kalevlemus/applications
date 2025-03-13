@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "updateSpriteProperty pausa",
+  "order": 1000,
+  "parent": "BFgDqPHO",
+  "path": "updateSpriteProperty.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "E137ngVC",
+  "value": "updateSpriteProperty",
+  "values": {
+    "spriteName": "pausa",
+    "property": "ScrollFactor",
+    "newValue": "0"
+  }
+}

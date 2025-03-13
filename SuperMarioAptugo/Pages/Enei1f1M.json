@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "SceneStart",
+  "order": 1000,
+  "parent": "T7X4JfKw",
+  "path": "SceneStart.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Enei1f1M",
+  "value": "SceneStart",
+  "values": {
+    "valuesScene": "restart"
+  }
+}

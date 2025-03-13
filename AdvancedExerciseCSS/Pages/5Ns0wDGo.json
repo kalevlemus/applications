@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "Facebook",
+  "parent": "PZxT6IMD",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "5Ns0wDGo",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.site_web, theme.facebook",
+    "id": "",
+    "style": "",
+    "useid": false
+  }
+}

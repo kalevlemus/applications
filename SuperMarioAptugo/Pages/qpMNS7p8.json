@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "LoopGame goombas",
+  "parent": "0u7c4BZZ",
+  "path": "LoopGame.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "qpMNS7p8",
+  "value": "LoopGame",
+  "values": {
+    "variableName": "goombas",
+    "itemInterate": "goomba"
+  }
+}

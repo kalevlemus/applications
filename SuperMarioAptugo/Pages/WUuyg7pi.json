@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "SceneSpriteAnims mario jump",
+  "order": 1000,
+  "parent": "ZGvLTd9M",
+  "path": "SceneSpriteAnims.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "WUuyg7pi",
+  "value": "SceneSpriteAnims",
+  "values": {
+    "spriteName": "mario",
+    "key": "marioJump",
+    "frames": "[5]",
+    "frameRate": "7",
+    "repeat": "-1"
+  }
+}

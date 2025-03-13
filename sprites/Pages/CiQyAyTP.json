@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "SceneObjectStatic",
+  "order": 1000,
+  "parent": "NNQLvcgO",
+  "path": "SceneObjectStatic.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "CiQyAyTP",
+  "value": "SceneObjectStatic",
+  "values": {
+    "groupname": "plataformas",
+    "asset": "plataforma",
+    "posX": "300",
+    "posY": "400",
+    "refreshBody": true
+  }
+}

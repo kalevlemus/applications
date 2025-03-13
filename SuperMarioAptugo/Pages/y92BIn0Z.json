@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "SceneVariable",
+  "order": 1000,
+  "parent": "fROMiqQm",
+  "path": "SceneVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "y92BIn0Z",
+  "value": "SceneVariable",
+  "values": {
+    "name": "goombaStompSound",
+    "type": "any"
+  }
+}

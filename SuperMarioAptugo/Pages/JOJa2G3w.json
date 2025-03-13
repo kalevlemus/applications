@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "AssetLoader jumpSound",
+  "order": 1000,
+  "parent": "8P1G0lEx",
+  "path": "AssetLoader.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "JOJa2G3w",
+  "value": "AssetLoader",
+  "values": {
+    "name": "jumpSound",
+    "useOther": true,
+    "useOtherAsset": "aFWsx1TE"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "parent": "MH4GSJHH",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "5zHcOWcv",
+  "value": "simpleLink",
+  "values": {
+    "destination": "https://in.bookmyshow.com/",
+    "tagToUse": "A",
+    "target": "_blank"
+  }
+}

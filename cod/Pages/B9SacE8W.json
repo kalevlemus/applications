@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "updateStateVariable",
+  "parent": "slQXPDtq",
+  "path": "updateStateVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "B9SacE8W",
+  "value": "updateStateVariable",
+  "values": {
+    "variable": "lang",
+    "newvalue": "langStrings[localStorage.getItem('aptugolang') || 'en']"
+  }
+}

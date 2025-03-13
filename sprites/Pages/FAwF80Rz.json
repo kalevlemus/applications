@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "SceneSpriteAnimsIzq",
+  "order": 1000,
+  "parent": "ZBSfvxTs",
+  "path": "SceneSpriteAnims.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "FAwF80Rz",
+  "value": "SceneSpriteAnims",
+  "values": {
+    "spriteName": "miroslav",
+    "key": "miroslavIzq",
+    "frames": "[9,10,11,12,13,14,15,16,17]",
+    "frameRate": "7",
+    "repeat": "-1"
+  }
+}

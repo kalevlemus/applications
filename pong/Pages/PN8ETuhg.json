@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "SceneSound",
+  "order": 1000,
+  "parent": "3h2mfBHp",
+  "path": "SceneSound.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "PN8ETuhg",
+  "value": "SceneSound",
+  "values": {
+    "asset": "fail",
+    "volume": "0.3"
+  }
+}

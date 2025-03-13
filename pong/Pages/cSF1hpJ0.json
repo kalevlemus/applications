@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "PlaySound",
+  "order": 1000,
+  "parent": "SyAgBzO0",
+  "path": "PlaySound.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "cSF1hpJ0",
+  "value": "PlaySound",
+  "values": {
+    "soundOptions": "play",
+    "asset": "fail"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "SceneSound winSound",
+  "order": 1000,
+  "parent": "3NpmbrdX",
+  "path": "SceneSound.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "bXTQSe6L",
+  "value": "SceneSound",
+  "values": {
+    "asset": "winSound",
+    "volume": "0.2"
+  }
+}

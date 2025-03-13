@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "typography",
+  "parent": "QCMR4abb",
+  "path": "typography.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "H5PRCULB",
+  "value": "typography",
+  "values": {
+    "tag": "body1"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "backColor": "00FF00",
+  "cascades": false,
+  "color": "FF0000",
+  "docurl": "https://doc.next.aptugo.app/ref/Basic",
+  "double": true,
+  "name": "text",
+  "order": 2,
+  "parent": "CsyWnkLx",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "render": "(elem) => { return elem.values.Content }",
+  "renderTag": "span",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "H4fDQ72N",
+  "value": "text",
+  "values": {
+    "Content": "BIENVENIDOS A MI BLOG , AQUI ENCONTRARAS LAS NOTICIAS MAS RECIENTES E IMPORTANTES SINTETIZADAS SOBRE CALL OF DUTY "
+  }
+}

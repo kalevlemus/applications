@@ -1,0 +1,35 @@
+{
+  "_id": "MI6NgUfzy9hFBDV3",
+  "createdAt": 1672957562724,
+  "modifiedAt": 1726611990469,
+  "lastBuild": 1726611990468,
+  "settings": {
+    "name": "maquetacionParaVideo",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "maquetacionParaVideo",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://maquetacionparavideolite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/maquetacionparavideo"
+    },
+    "stagging": {
+      "apiURL": "https://maquetacionparavideolite.aptugo.app",
+      "type": "Local",
+      "folder": "maquetacionParaVideo_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://maquetacionparavideolite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/maquetacionparavideo"
+    },
+    "production": {
+      "apiURL": "https://maquetacionparavideolite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "maquetacionParaVideo",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://maquetacionparavideolite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/maquetacionparavideo"
+    }
+  }
+}

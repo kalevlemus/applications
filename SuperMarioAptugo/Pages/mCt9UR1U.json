@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "PhaserSceneFunction aplastoOMurio",
+  "order": 1000,
+  "parent": "RZQP3nlF",
+  "path": "PhaserSceneFunction.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "mCt9UR1U",
+  "value": "PhaserSceneFunction",
+  "values": {
+    "stage": "other",
+    "customFunctionName": "aplastoOMurio"
+  }
+}

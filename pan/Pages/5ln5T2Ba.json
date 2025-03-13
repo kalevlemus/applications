@@ -1,0 +1,23 @@
+{
+  "cascades": false,
+  "name": "ComposedChart",
+  "order": 1000,
+  "parent": "vtd5O626",
+  "path": "ComposedChart.tpl",
+  "prevent_delete": false,
+  "settings": [
+    {
+      "name": "Packages",
+      "value": "\"recharts\": \"^2.1.13\","
+    }
+  ],
+  "type": "element",
+  "unique_id": "5ln5T2Ba",
+  "value": "ComposedChart",
+  "values": {
+    "width": "720",
+    "height": "480",
+    "Variable": "pan",
+    "Index": "rofNVv92"
+  }
+}

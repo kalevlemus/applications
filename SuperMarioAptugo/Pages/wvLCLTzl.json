@@ -1,0 +1,12 @@
+{
+  "cascades": false,
+  "name": "dummyEncloser goomba",
+  "order": 3,
+  "parent": "9vO8OFfF",
+  "path": "dummyEncloser.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "wvLCLTzl",
+  "value": "dummyEncloser",
+  "values": {}
+}

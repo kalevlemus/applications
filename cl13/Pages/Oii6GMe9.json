@@ -1,0 +1,21 @@
+{
+  "calculatedName": "function (ele) { \n  try {\n    const tblname = aptugo.store.getState().application.tables.find(tbl => tbl.unique_id === ele.values.data).name\n    const calc = 'Load ' + tblname + ' from database'\n    return calc\n  } catch(e) {\n    return ele.name\n  }\n}",
+  "cascades": false,
+  "display": "Load from Database",
+  "name": "Load from Database",
+  "order": 1000,
+  "originalName": "Load from Database",
+  "parent": "qWhc9SAT",
+  "path": "loadFromRedux.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "Oii6GMe9",
+  "value": "loadFromRedux",
+  "values": {
+    "elementsLimit": "25",
+    "defaultPage": "1",
+    "data": "Qn7g6ro8",
+    "variableName": "paisesYcontinentes"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "DlEiSIC9",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "AthkMioR",
+  "value": "text",
+  "values": {
+    "Content": "Hola"
+  }
+}

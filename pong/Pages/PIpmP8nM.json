@@ -1,0 +1,19 @@
+{
+  "cascades": false,
+  "name": "SceneTextB",
+  "order": 1000,
+  "parent": "UTqU2RtN",
+  "path": "SceneText.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "PIpmP8nM",
+  "value": "SceneText",
+  "values": {
+    "textdisplay": "Puntos Jugador B: ${this.puntosB}",
+    "posX": "395",
+    "posY": "15",
+    "color": "#fff",
+    "font": "Arial Black",
+    "size": "14"
+  }
+}

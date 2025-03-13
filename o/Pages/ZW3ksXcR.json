@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "order": 1000,
+  "parent": "BXK3pAWR",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "renderTag": "a",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "ZW3ksXcR",
+  "value": "simpleLink",
+  "values": {
+    "tagToUse": "A",
+    "target": "_self",
+    "destination": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx_i2yS56ONCBk4PQN2qPITLp23FkHRM8u8w&s"
+  }
+}

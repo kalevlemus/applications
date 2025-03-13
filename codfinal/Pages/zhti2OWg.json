@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "Rt0IOrJt",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "zhti2OWg",
+  "value": "text",
+  "values": {
+    "Content": "EL META DE BLACKOPS 6"
+  }
+}

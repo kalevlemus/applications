@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "updateSpriteProperty",
+  "parent": "U20WuINM",
+  "path": "updateSpriteProperty.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "JM5IAoLP",
+  "value": "updateSpriteProperty",
+  "values": {
+    "spriteName": "goomba",
+    "property": "VelocityX",
+    "withoutSet": false,
+    "newValue": "50",
+    "withoutThis": true
+  }
+}

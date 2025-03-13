@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "condition",
+  "parent": "bW2zTZT2",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "U20WuINM",
+  "value": "condition",
+  "values": {
+    "condition": "goomba.body.velocity.x > 0",
+    "useInCode": true,
+    "elseOption": ""
+  }
+}

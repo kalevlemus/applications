@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "SceneSprite PV",
+  "order": 1000,
+  "parent": "EzRa9zwT",
+  "path": "SceneSprite.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "MfmJQUnb",
+  "value": "SceneSprite",
+  "values": {
+    "asset": "paddleV",
+    "collide": true,
+    "Physics": true,
+    "posX": "50",
+    "posY": "200"
+  }
+}

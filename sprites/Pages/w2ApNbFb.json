@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "CheckForKeyDown",
+  "order": 1000,
+  "parent": "VGSkAC0n",
+  "path": "UpdateCheckForKeyDown.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "w2ApNbFb",
+  "value": "UpdateCheckForKeyDown",
+  "values": {
+    "key": "W,A,S,D"
+  }
+}

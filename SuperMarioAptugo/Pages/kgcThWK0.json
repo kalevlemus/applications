@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "SceneVariable goSound",
+  "order": 1000,
+  "parent": "6CN3DHhP",
+  "path": "SceneVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "kgcThWK0",
+  "value": "SceneVariable",
+  "values": {
+    "name": "goSound",
+    "type": "any"
+  }
+}

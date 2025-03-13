@@ -1,0 +1,35 @@
+{
+  "_id": "308kUlTa0zUa7bbC",
+  "createdAt": 1728598360319,
+  "modifiedAt": 1728598496088,
+  "lastBuild": 1727995966424,
+  "settings": {
+    "name": "cod",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "cod",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://codlite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/cod"
+    },
+    "stagging": {
+      "apiURL": "https://codlite.aptugo.app",
+      "type": "Local",
+      "folder": "cod_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://codlite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/cod"
+    },
+    "production": {
+      "apiURL": "https://codlite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "cod",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://codlite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/cod"
+    }
+  }
+}

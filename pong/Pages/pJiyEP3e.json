@@ -1,0 +1,12 @@
+{
+  "cascades": false,
+  "name": "dummyEncloser Asset Loaders",
+  "order": 3,
+  "parent": "N4fENAuy",
+  "path": "dummyEncloser.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "pJiyEP3e",
+  "value": "dummyEncloser",
+  "values": {}
+}

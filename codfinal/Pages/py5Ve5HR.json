@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "botonRegresar",
+  "parent": "nmDoWwWC",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "py5Ve5HR",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.botonregresar"
+  }
+}

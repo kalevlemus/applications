@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Inicio",
+  "parent": "3vQdFmL5",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "DBzLSrJ2",
+  "value": "div",
+  "values": {
+    "tag": "div"
+  }
+}

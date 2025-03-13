@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "AssetLoader Fail",
+  "parent": "pJiyEP3e",
+  "path": "AssetLoader.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "uqw3SXI6",
+  "value": "AssetLoader",
+  "values": {
+    "name": "fail",
+    "useOther": true,
+    "useOtherAsset": "0vMTdxsW"
+  }
+}

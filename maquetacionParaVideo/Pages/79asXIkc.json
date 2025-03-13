@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "SeccionTres",
+  "parent": "KZ2Nd2Ms",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "79asXIkc",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.SeccionTres"
+  }
+}

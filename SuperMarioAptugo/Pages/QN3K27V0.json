@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "updateSpriteProperty removeCollider goombas",
+  "parent": "UdfKFxTN",
+  "path": "updateSpriteProperty.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "QN3K27V0",
+  "value": "updateSpriteProperty",
+  "values": {
+    "spriteName": "physics.world",
+    "property": "removeCollider",
+    "newValue": "this.goombasMarioColisiones",
+    "withoutSet": true
+  }
+}

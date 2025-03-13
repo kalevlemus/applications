@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "PlaySound themeSound Pause",
+  "parent": "XUP4OFXK",
+  "path": "PlaySound.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "AVvFEsme",
+  "value": "PlaySound",
+  "values": {
+    "soundOptions": "pause",
+    "asset": "themeSound"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "7AWr5FWp",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "eKSF4wHn",
+  "value": "text",
+  "values": {
+    "Content": "Booking",
+    "className": "theme.WebBottomName"
+  }
+}

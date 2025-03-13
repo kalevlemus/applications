@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "autolinking",
+  "parent": "VIM2cpft",
+  "path": "autolinking.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "1iTECpUC",
+  "value": "autolinking",
+  "values": {
+    "fromLink": "1iP1yklx"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "SceneVariable jumpSound",
+  "order": 1000,
+  "parent": "fROMiqQm",
+  "path": "SceneVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "xSSVCyc6",
+  "value": "SceneVariable",
+  "values": {
+    "name": "jumpSound",
+    "type": "any"
+  }
+}

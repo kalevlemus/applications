@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "div - Hello Text",
+  "parent": "Oyd1nxVD",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "d3SknSOv",
+  "value": "div",
+  "values": {
+    "class": "classes.bigHello",
+    "style": "{marginTop: \"50px\"}"
+  }
+}

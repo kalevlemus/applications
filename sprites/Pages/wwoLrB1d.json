@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "AssetLoader plataforma",
+  "order": 1000,
+  "parent": "5sfZrTI3",
+  "path": "AssetLoader.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "wwoLrB1d",
+  "value": "AssetLoader",
+  "values": {
+    "name": "plataforma",
+    "useAsset": "rtnRd7xM"
+  }
+}

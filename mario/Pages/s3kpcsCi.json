@@ -1,0 +1,14 @@
+{
+  "cascades": true,
+  "name": "sidebar",
+  "parent": "WqrteexE",
+  "path": "sidebar.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "s3kpcsCi",
+  "value": "sidebar",
+  "values": {
+    "colorSchema": "Greens",
+    "open": "true"
+  }
+}

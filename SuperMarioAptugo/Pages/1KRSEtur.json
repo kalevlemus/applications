@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "delayContext": true,
+  "name": "PhaserScene Start",
+  "order": 1000,
+  "parent": "6tTeXd31",
+  "path": "PhaserScene.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "1KRSEtur",
+  "usesDelays": [
+    "variableDeclarations"
+  ],
+  "value": "PhaserScene",
+  "values": {
+    "name": "Start"
+  }
+}

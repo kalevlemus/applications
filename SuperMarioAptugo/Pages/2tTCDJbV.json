@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "SceneSound",
+  "order": 1000,
+  "parent": "y92BIn0Z",
+  "path": "SceneSound.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "2tTCDJbV",
+  "value": "SceneSound",
+  "values": {
+    "asset": "goombaStompSound",
+    "volume": "0.5"
+  }
+}

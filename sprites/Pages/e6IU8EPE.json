@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "SceneVariable vueltas",
+  "order": 1000,
+  "parent": "kLxFi7Mw",
+  "path": "SceneVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "e6IU8EPE",
+  "value": "SceneVariable",
+  "values": {
+    "name": "vueltas",
+    "value": "0",
+    "type": "number"
+  }
+}

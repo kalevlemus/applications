@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "for",
+  "order": 1000,
+  "parent": "tZKf9b7H",
+  "path": "for.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "IBpT3SCQ",
+  "value": "for",
+  "values": {
+    "variablename": "item",
+    "from": "1",
+    "until": "<= 25",
+    "increment": "item"
+  }
+}

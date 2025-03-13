@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "for",
+  "parent": "dmF68EaS",
+  "path": "for.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "zFqI8x7T",
+  "value": "for",
+  "values": {
+    "variablename": "item",
+    "from": "1",
+    "until": "<= 25",
+    "increment": "item"
+  }
+}

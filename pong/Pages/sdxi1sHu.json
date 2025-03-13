@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "PhaserSceneFunction Cambiar Direccion",
+  "order": 1000,
+  "parent": "LGQLIIaJ",
+  "path": "PhaserSceneFunction.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "sdxi1sHu",
+  "value": "PhaserSceneFunction",
+  "values": {
+    "stage": "other",
+    "customFunctionName": "cambiarDireccion"
+  }
+}

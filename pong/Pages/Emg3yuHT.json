@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "SceneVariable BALL",
+  "order": 1000,
+  "parent": "kV7NaDy7",
+  "path": "SceneVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Emg3yuHT",
+  "value": "SceneVariable",
+  "values": {
+    "name": "ball",
+    "type": "any"
+  }
+}

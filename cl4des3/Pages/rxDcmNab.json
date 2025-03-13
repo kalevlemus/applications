@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "Z6GMCOTw",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "rxDcmNab",
+  "value": "text",
+  "values": {
+    "Content": "TODO AQUI TE ENTRA"
+  }
+}

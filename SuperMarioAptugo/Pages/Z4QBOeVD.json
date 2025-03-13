@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "checkCollision mario mapColisiones",
+  "order": 1000,
+  "parent": "bXkEhJS0",
+  "path": "checkCollision.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Z4QBOeVD",
+  "value": "checkCollision",
+  "values": {
+    "functionCollision": "collider",
+    "objectA": "mario",
+    "objectB": "mapColisiones"
+  }
+}

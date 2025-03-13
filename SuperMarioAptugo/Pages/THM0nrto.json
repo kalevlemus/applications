@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "SceneVariable castleHalf",
+  "order": 1000,
+  "parent": "9vO8OFfF",
+  "path": "SceneVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "THM0nrto",
+  "value": "SceneVariable",
+  "values": {
+    "name": "castleHalf",
+    "type": "any"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "TilemapLoad",
+  "order": 1000,
+  "parent": "8P1G0lEx",
+  "path": "TilemapLoad.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "EnQa7wTR",
+  "value": "TilemapLoad",
+  "values": {
+    "nameMap": "jsonmap",
+    "name": "assetmap",
+    "useAsset": "etmRKsTu",
+    "pathmap": "LmM03ETx"
+  }
+}

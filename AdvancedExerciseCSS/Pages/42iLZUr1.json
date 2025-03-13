@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "parent": "o5l5uIC5",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "42iLZUr1",
+  "value": "simpleLink",
+  "values": {
+    "destination": "https://es.aliexpress.com/",
+    "tagToUse": "A",
+    "target": "_blank"
+  }
+}

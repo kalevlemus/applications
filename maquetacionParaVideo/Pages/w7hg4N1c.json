@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "divC",
+  "parent": "kzON41e5",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "w7hg4N1c",
+  "value": "text",
+  "values": {
+    "Content": "divC"
+  }
+}

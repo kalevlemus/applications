@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "condition pausa",
+  "parent": "KaMpiuqC",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "L6swzvKs",
+  "value": "condition",
+  "values": {
+    "condition": "!this.game.isPaused",
+    "useInCode": true
+  }
+}

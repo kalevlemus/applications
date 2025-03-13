@@ -1,0 +1,13 @@
+{
+  "cascades": true,
+  "name": "Body",
+  "parent": "pgM1kNIp",
+  "path": "b.tpl",
+  "prevent_delete": true,
+  "type": "element",
+  "unique_id": "Hh2gv4sO",
+  "value": "b",
+  "values": {
+    "className": "theme.home"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "cascades": false,
+  "name": "PhaserGame Pong",
+  "order": 1000,
+  "parent": "F2zPRkWT",
+  "path": "PhaserGame.tpl",
+  "prevent_delete": false,
+  "settings": [
+    {
+      "name": "Packages",
+      "value": "\"phaser\": \"^3.70.0\","
+    }
+  ],
+  "type": "element",
+  "unique_id": "3nLLJ75i",
+  "value": "PhaserGame",
+  "values": {
+    "Width": "600",
+    "Height": "400",
+    "PhysicsEngine": "arcade",
+    "WholeScreen": true,
+    "GravityX": "",
+    "class": ""
+  }
+}

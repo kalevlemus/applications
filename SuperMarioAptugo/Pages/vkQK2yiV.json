@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "updateSpriteProperty",
+  "order": 1000,
+  "parent": "S28mraHf",
+  "path": "updateSpriteProperty.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "vkQK2yiV",
+  "value": "updateSpriteProperty",
+  "values": {
+    "spriteName": "mario",
+    "property": "Velocity",
+    "newValue": "0"
+  }
+}

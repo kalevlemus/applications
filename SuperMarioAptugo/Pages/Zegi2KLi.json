@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "PlaySound winSound Pause",
+  "order": 1000,
+  "parent": "FiXqZJ9p",
+  "path": "PlaySound.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Zegi2KLi",
+  "value": "PlaySound",
+  "values": {
+    "soundOptions": "pause",
+    "asset": "winSound"
+  }
+}

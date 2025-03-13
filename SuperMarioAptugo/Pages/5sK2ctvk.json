@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "FlipX mario",
+  "order": 1000,
+  "parent": "tNEZqH6r",
+  "path": "FlipX.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "5sK2ctvk",
+  "value": "FlipX",
+  "values": {
+    "variableName": "mario",
+    "flipToRight": false,
+    "withoutThis": false
+  }
+}

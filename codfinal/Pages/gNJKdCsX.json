@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "vweO24cV",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "gNJKdCsX",
+  "value": "text",
+  "values": {
+    "Content": "META WARZONE:"
+  }
+}

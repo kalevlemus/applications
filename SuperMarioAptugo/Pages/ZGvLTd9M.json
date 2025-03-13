@@ -1,0 +1,12 @@
+{
+  "cascades": false,
+  "name": "dummyEncloser Mario",
+  "order": 3,
+  "parent": "1hlhFAJz",
+  "path": "dummyEncloser.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ZGvLTd9M",
+  "value": "dummyEncloser",
+  "values": {}
+}

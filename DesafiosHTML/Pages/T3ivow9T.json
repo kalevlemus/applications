@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "PuqSrT0s",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "render": "(elem) => { return elem.values.Content }",
+  "renderTag": "span",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "T3ivow9T",
+  "value": "text",
+  "values": {
+    "Content": "&emsp;<strong>¡Anclas!</strong>"
+  }
+}

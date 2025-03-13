@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "parent": "dSA0Lcit",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "renderTag": "a",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "BrRagRBq",
+  "value": "simpleLink",
+  "values": {
+    "destination": "/EjercicioUno",
+    "tagToUse": "NavLink",
+    "target": "_self",
+    "style": "{marginRight: \"10px\"}"
+  }
+}

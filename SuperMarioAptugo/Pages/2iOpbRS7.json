@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "SceneVariable gameOverSound",
+  "order": 1000,
+  "parent": "fROMiqQm",
+  "path": "SceneVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "2iOpbRS7",
+  "value": "SceneVariable",
+  "values": {
+    "name": "gameOverSound",
+    "type": "any"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "PlayAnims marioJump",
+  "parent": "zGOqU0k5",
+  "path": "PlayAnims.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "8ABf3wgw",
+  "value": "PlayAnims",
+  "values": {
+    "variableName": "mario",
+    "playAnims": "marioJump"
+  }
+}

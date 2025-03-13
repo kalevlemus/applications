@@ -1,0 +1,35 @@
+{
+  "_id": "HyZg5Jm1P5G2lTO9",
+  "createdAt": 1725400850243,
+  "modifiedAt": 1725402397242,
+  "lastBuild": 1725402397241,
+  "settings": {
+    "name": "clase5",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "clase5",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://clase5lite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/clase5"
+    },
+    "stagging": {
+      "apiURL": "https://clase5lite.aptugo.app",
+      "type": "Local",
+      "folder": "clase5_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://clase5lite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/clase5"
+    },
+    "production": {
+      "apiURL": "https://clase5lite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "clase5",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://clase5lite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/clase5"
+    }
+  }
+}

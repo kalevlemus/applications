@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "SceneSpriteAnimsIdle",
+  "order": 1000,
+  "parent": "ZBSfvxTs",
+  "path": "SceneSpriteAnims.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "36VFo4Dw",
+  "value": "SceneSpriteAnims",
+  "values": {
+    "spriteName": "miroslav",
+    "key": "miroslavIdle",
+    "frames": "[0]",
+    "frameRate": "7",
+    "repeat": "-1"
+  }
+}

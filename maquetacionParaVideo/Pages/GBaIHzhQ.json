@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "divDos",
+  "parent": "1H9Om3w1",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "GBaIHzhQ",
+  "value": "text",
+  "values": {
+    "Content": "divDos"
+  }
+}

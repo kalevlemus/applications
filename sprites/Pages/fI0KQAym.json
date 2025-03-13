@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "updateVariable",
+  "order": 1000,
+  "parent": "rNXkMBPf",
+  "path": "updateVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "fI0KQAym",
+  "value": "updateVariable",
+  "values": {
+    "newValue": "true",
+    "variableName": "puntuado"
+  }
+}

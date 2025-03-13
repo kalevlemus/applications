@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "wxZoycUh",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "WSAkAMce",
+  "value": "text",
+  "values": {
+    "Content": "Google"
+  }
+}

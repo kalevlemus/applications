@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "SceneVariable Win",
+  "parent": "kV7NaDy7",
+  "path": "SceneVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "zIufmIRe",
+  "value": "SceneVariable",
+  "values": {
+    "name": "win"
+  }
+}

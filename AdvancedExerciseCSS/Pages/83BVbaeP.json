@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "button",
+  "parent": "Hzaxtxya",
+  "path": "button.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "83BVbaeP",
+  "value": "button",
+  "values": {
+    "ButtonText": "Buscar en Aptoogle",
+    "Color": "primary",
+    "className": "theme.boton",
+    "Variant": "outlined"
+  }
+}

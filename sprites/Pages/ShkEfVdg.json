@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "GameResume pausa",
+  "parent": "ctKHTHAo",
+  "path": "GameResume.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ShkEfVdg",
+  "value": "GameResume",
+  "values": {
+    "valuesScene": "pause"
+  }
+}

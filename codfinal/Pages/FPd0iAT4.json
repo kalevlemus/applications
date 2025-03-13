@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "f0XORFZn",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "FPd0iAT4",
+  "value": "text",
+  "values": {
+    "Content": "ESTAS SON LAS NOVEDADES MAS IMPORTANTES DE COD"
+  }
+}

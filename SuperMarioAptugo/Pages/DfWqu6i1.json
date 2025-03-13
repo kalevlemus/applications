@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "SceneSound gameOverSound",
+  "order": 1000,
+  "parent": "2iOpbRS7",
+  "path": "SceneSound.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "DfWqu6i1",
+  "value": "SceneSound",
+  "values": {
+    "asset": "gameOverSound",
+    "volume": "0.2"
+  }
+}

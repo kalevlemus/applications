@@ -1,0 +1,20 @@
+{
+  "cascades": false,
+  "name": "SceneSprite BALL",
+  "order": 1000,
+  "parent": "Emg3yuHT",
+  "path": "SceneSprite.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "05pCsKvI",
+  "value": "SceneSprite",
+  "values": {
+    "asset": "ball",
+    "posX": "300",
+    "posY": "200",
+    "collide": false,
+    "Physics": true,
+    "bounce": "1.01",
+    "pushable": true
+  }
+}

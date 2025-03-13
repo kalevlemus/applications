@@ -1,0 +1,18 @@
+{
+  "backColor": "rgba(6, 201, 210, 0.25)",
+  "cascades": false,
+  "color": "rgb(0,230,230)",
+  "double": true,
+  "name": "grafico",
+  "order": 1,
+  "parent": "sP2pO9Dn",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "vtd5O626",
+  "value": "div",
+  "values": {
+    "tag": "div"
+  }
+}

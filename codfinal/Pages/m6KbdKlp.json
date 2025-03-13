@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "Pz63zPwH",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "m6KbdKlp",
+  "value": "text",
+  "values": {
+    "Content": "STATIC HV: SIL. QUARTERMASTER, CAÑON LIGERO AUGER 840, MIRA NYDAR MODELO 2023, , CULATA LIGERA SPRY 34"
+  }
+}

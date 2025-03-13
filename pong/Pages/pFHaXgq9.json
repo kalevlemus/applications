@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "updateSpriteProperty",
+  "order": 1000,
+  "parent": "lH65IKTA",
+  "path": "updateSpriteProperty.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "pFHaXgq9",
+  "value": "updateSpriteProperty",
+  "values": {
+    "spriteName": "textB",
+    "property": "Text",
+    "newValue": "`Puntos Jugador B: ${(this.puntosB +=1)}`"
+  }
+}

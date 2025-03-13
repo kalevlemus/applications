@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "SceneSprite WallTop",
+  "order": 1000,
+  "parent": "2g8d2ppG",
+  "path": "SceneSprite.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "CeAPggIR",
+  "value": "SceneSprite",
+  "values": {
+    "asset": "wall",
+    "posX": "300",
+    "collide": true,
+    "Physics": true,
+    "posY": "400"
+  }
+}

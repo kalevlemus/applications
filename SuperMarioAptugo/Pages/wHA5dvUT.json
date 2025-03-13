@@ -1,0 +1,21 @@
+{
+  "cascades": false,
+  "name": "code",
+  "order": 1000,
+  "parent": "S28mraHf",
+  "path": "code.tpl",
+  "prevent_delete": false,
+  "settings": [
+    {
+      "name": "ServerAddenum",
+      "value": "{% if element.values.serverSide %}\n{{ element.values.code | raw }}\n{% endif %}"
+    }
+  ],
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "wHA5dvUT",
+  "value": "code",
+  "values": {
+    "code": "goomba.isDead = true"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "AssetLoader gameOverSound",
+  "order": 1000,
+  "parent": "8P1G0lEx",
+  "path": "AssetLoader.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "09GSMsgK",
+  "value": "AssetLoader",
+  "values": {
+    "useOther": true,
+    "useOtherAsset": "0hwt0gVU",
+    "name": "gameOverSound"
+  }
+}

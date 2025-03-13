@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "ChangeScene A Escena Forest",
+  "order": 1000,
+  "parent": "WwmbkFlh",
+  "path": "ChangeScene.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "oyOIFCsA",
+  "value": "ChangeScene",
+  "values": {
+    "sceneName": "EscenaForest"
+  }
+}

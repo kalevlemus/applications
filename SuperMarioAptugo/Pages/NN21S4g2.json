@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "AssetLoader startBackground",
+  "order": 1000,
+  "parent": "QPlaEE0n",
+  "path": "AssetLoader.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "NN21S4g2",
+  "value": "AssetLoader",
+  "values": {
+    "useAsset": "bbhOIGDQ",
+    "name": "startBackground"
+  }
+}

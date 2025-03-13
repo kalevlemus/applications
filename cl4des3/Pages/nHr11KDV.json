@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "mT07H3Au",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "nHr11KDV",
+  "value": "text",
+  "values": {
+    "Content": "TIENDA DE ZAPATOS DON CHUY"
+  }
+}

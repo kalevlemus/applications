@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "SceneVariable goombasMarioColisiones",
+  "order": 1000,
+  "parent": "b7qZS4rD",
+  "path": "SceneVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "RxGmzqSw",
+  "value": "SceneVariable",
+  "values": {
+    "name": "goombasMarioColisiones",
+    "type": "any"
+  }
+}

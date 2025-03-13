@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "AssetLoader Personaje",
+  "order": 1000,
+  "parent": "5sfZrTI3",
+  "path": "AssetLoader.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "1OTJDDTU",
+  "value": "AssetLoader",
+  "values": {
+    "name": "miroslav",
+    "useAsset": "kBXktr7M",
+    "useSpritesheet": true,
+    "frameWidth": "64",
+    "frameHeight": "57"
+  }
+}

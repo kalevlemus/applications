@@ -1,0 +1,35 @@
+{
+  "_id": "53qrKUOnNXIzPFkt",
+  "createdAt": 1739311390675,
+  "modifiedAt": 1739313813958,
+  "lastBuild": 1738878269367,
+  "settings": {
+    "name": "nnn",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "nnn",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://nnnlite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/nnn"
+    },
+    "stagging": {
+      "apiURL": "https://nnnlite.aptugo.app",
+      "type": "Local",
+      "folder": "nnn_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://nnnlite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/nnn"
+    },
+    "production": {
+      "apiURL": "https://nnnlite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "nnn",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://nnnlite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/nnn"
+    }
+  }
+}

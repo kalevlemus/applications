@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "uvoOcQPy",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "3LnSlq27",
+  "value": "text",
+  "values": {
+    "Content": "Goibibo",
+    "className": "theme.WebBottomName"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "AssetLoader mosco",
+  "order": 1000,
+  "parent": "5sfZrTI3",
+  "path": "AssetLoader.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "e0GkDTDB",
+  "value": "AssetLoader",
+  "values": {
+    "name": "mosco",
+    "useAsset": "B2Xvp9gf",
+    "useSpritesheet": false,
+    "frameWidth": "16",
+    "frameHeight": "16"
+  }
+}

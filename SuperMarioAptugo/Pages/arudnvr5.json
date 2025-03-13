@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "CallDefinedFunction",
+  "order": 1000,
+  "parent": "LThx0yLr",
+  "path": "CallDefinedFunction.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "arudnvr5",
+  "value": "CallDefinedFunction",
+  "values": {
+    "function": "marioMuere"
+  }
+}

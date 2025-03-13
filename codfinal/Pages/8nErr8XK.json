@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "Ddsk4dz4",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "8nErr8XK",
+  "value": "text",
+  "values": {
+    "Content": "GIVEAWAY"
+  }
+}

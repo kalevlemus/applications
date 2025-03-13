@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "parent": "u324Gafu",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "JxPL668i",
+  "value": "simpleLink",
+  "values": {
+    "target": "\"_self\"",
+    "destination": "/",
+    "tagToUse": "NavLink"
+  }
+}

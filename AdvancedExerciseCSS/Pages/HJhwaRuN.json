@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "Flipkart",
+  "parent": "rwG2Tm74",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "HJhwaRuN",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.site_web, theme.flipkart"
+  }
+}

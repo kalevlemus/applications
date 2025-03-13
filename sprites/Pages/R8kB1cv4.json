@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "updateSpriteProperty goomba Velocity",
+  "order": 1000,
+  "parent": "d9frtgSU",
+  "path": "updateSpriteProperty.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "R8kB1cv4",
+  "value": "updateSpriteProperty",
+  "values": {
+    "spriteName": "goomba",
+    "property": "Velocity",
+    "withoutThis": true,
+    "newValue": "Phaser.Math.Between(0,1) === 0 ? 100: -100"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "updateSpriteProperty mosco Velocity",
+  "parent": "I3ev6zHB",
+  "path": "updateSpriteProperty.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "H3bsxJx5",
+  "value": "updateSpriteProperty",
+  "values": {
+    "spriteName": "mosco",
+    "property": "Velocity",
+    "withoutThis": true,
+    "newValue": "Phaser.Math.Between(0,1) === 0 ? 100: -100"
+  }
+}

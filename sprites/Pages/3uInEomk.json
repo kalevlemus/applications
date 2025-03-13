@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "GameResume resumir",
+  "order": 1000,
+  "parent": "dNTC1hKd",
+  "path": "GameResume.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "3uInEomk",
+  "value": "GameResume",
+  "values": {
+    "valuesScene": "resume"
+  }
+}

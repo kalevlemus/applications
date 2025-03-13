@@ -1,0 +1,35 @@
+{
+  "_id": "gU9vwXlnPi0lOC5s",
+  "createdAt": 1725572085801,
+  "modifiedAt": 1725573692155,
+  "lastBuild": 1725573692155,
+  "settings": {
+    "name": "cl6",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "cl6",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://cl6lite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/cl6"
+    },
+    "stagging": {
+      "apiURL": "https://cl6lite.aptugo.app",
+      "type": "Local",
+      "folder": "cl6_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://cl6lite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/cl6"
+    },
+    "production": {
+      "apiURL": "https://cl6lite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "cl6",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://cl6lite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/cl6"
+    }
+  }
+}

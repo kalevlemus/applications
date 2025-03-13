@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "SceneVariable Beep",
+  "parent": "kV7NaDy7",
+  "path": "SceneVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "FGKWvpXC",
+  "value": "SceneVariable",
+  "values": {
+    "name": "beep"
+  }
+}

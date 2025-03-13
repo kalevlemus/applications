@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "PhaserSceneFunction CREATE Escena Forest",
+  "order": 1000,
+  "parent": "TKkToRM7",
+  "path": "PhaserSceneFunction.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "kLxFi7Mw",
+  "value": "PhaserSceneFunction",
+  "values": {
+    "stage": "create"
+  }
+}

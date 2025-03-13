@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "kkQt42Bo",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "gATATKmR",
+  "value": "text",
+  "values": {
+    "Content": "<u>CODalLimite</u>"
+  }
+}

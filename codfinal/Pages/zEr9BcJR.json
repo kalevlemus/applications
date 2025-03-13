@@ -1,0 +1,20 @@
+{
+  "backColor": "rgba(6, 201, 210, 0.25)",
+  "cascades": false,
+  "color": "rgb(0,230,230)",
+  "double": true,
+  "name": "divhs",
+  "order": 1,
+  "parent": "xLVrO6ap",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "zEr9BcJR",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "id": "divh",
+    "class": "theme.divhs"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "PlaySound",
+  "order": 1000,
+  "parent": "mmzdbhE3",
+  "path": "PlaySound.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "3vrur2h7",
+  "value": "PlaySound",
+  "values": {
+    "soundOptions": "play",
+    "asset": "goombaStompSound"
+  }
+}

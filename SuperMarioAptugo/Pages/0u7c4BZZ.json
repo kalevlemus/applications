@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "PhaserSceneFunction Update",
+  "order": 1000,
+  "parent": "d3fpkmry",
+  "path": "PhaserSceneFunction.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "0u7c4BZZ",
+  "value": "PhaserSceneFunction",
+  "values": {
+    "stage": "update"
+  }
+}

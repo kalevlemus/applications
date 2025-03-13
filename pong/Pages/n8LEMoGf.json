@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "SceneVariable WallBottom",
+  "order": 1000,
+  "parent": "kV7NaDy7",
+  "path": "SceneVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "n8LEMoGf",
+  "value": "SceneVariable",
+  "values": {
+    "name": "wallBottom",
+    "value": "",
+    "type": "any"
+  }
+}

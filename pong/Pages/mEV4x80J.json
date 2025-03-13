@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "updateSpriteProperty",
+  "order": 1000,
+  "parent": "SyAgBzO0",
+  "path": "updateSpriteProperty.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "mEV4x80J",
+  "value": "updateSpriteProperty",
+  "values": {
+    "spriteName": "ball",
+    "property": "Velocity",
+    "newValue": "0,0"
+  }
+}

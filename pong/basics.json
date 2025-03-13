@@ -1,0 +1,35 @@
+{
+  "_id": "o8TCKDoQclsg5fUW",
+  "createdAt": 1738099938643,
+  "modifiedAt": 1738878269368,
+  "lastBuild": 1738878269367,
+  "settings": {
+    "name": "pong",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "pong",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://ponglite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/pong"
+    },
+    "stagging": {
+      "apiURL": "https://ponglite.aptugo.app",
+      "type": "Local",
+      "folder": "pong_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://ponglite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/pong"
+    },
+    "production": {
+      "apiURL": "https://ponglite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "pong",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://ponglite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/pong"
+    }
+  }
+}

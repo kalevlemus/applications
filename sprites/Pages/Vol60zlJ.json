@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "PlayAnims",
+  "order": 1000,
+  "parent": "nqOwIDC1",
+  "path": "PlayAnims.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Vol60zlJ",
+  "value": "PlayAnims",
+  "values": {
+    "variableName": "miroslav",
+    "playAnims": "miroslavAbajo"
+  }
+}

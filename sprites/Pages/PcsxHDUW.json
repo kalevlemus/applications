@@ -1,0 +1,25 @@
+{
+  "cascades": false,
+  "name": "PhaserGame Aventura",
+  "order": 1000,
+  "parent": "srQpVrKo",
+  "path": "PhaserGame.tpl",
+  "prevent_delete": false,
+  "settings": [
+    {
+      "name": "Packages",
+      "value": "\"phaser\": \"^3.70.0\","
+    }
+  ],
+  "type": "element",
+  "unique_id": "PcsxHDUW",
+  "value": "PhaserGame",
+  "values": {
+    "Width": "800",
+    "Height": "600",
+    "PhysicsEngine": "arcade",
+    "WholeScreen": true,
+    "GravityX": "",
+    "GravityY": "800"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "cascades": false,
+  "name": "code",
+  "order": 1000,
+  "parent": "6CN3DHhP",
+  "path": "code.tpl",
+  "prevent_delete": false,
+  "settings": [
+    {
+      "name": "ServerAddenum",
+      "value": "{% if element.values.serverSide %}\n{{ element.values.code | raw }}\n{% endif %}"
+    }
+  ],
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "rx5ufHQk",
+  "value": "code",
+  "values": {
+    "code": ".on('pointerover', () => {\r\n    document.body.style.cursor = 'pointer';\r\n    })\r\n.on('pointerout', () => {\r\n    document.body.style.cursor = 'default';\r\n});"
+  }
+}

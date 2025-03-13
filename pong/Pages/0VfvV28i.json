@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "SceneVariable PuntosA",
+  "order": 1000,
+  "parent": "kV7NaDy7",
+  "path": "SceneVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "0VfvV28i",
+  "value": "SceneVariable",
+  "values": {
+    "name": "puntosA",
+    "value": "0",
+    "type": "number"
+  }
+}

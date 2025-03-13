@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "condition",
+  "order": 1000,
+  "parent": "VGSkAC0n",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "eP9aMzZO",
+  "value": "condition",
+  "values": {
+    "condition": "`Puntaje: ${this.vueltas += 1}`",
+    "useInCode": true
+  }
+}

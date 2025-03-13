@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "LQThvXZD",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "render": "(elem) => { return elem.values.Content }",
+  "renderTag": "span",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "3Rkdwu1b",
+  "value": "text",
+  "values": {
+    "Content": "Inicio &emsp;&emsp;&emsp;&nbsp;"
+  }
+}

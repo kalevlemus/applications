@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "ccU9VdLO",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "lJ49lPZH",
+  "value": "text",
+  "values": {
+    "Content": "Flipkart",
+    "className": "theme.WebsiteName"
+  }
+}

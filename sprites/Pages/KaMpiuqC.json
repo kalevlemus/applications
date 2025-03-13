@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "PhaserSceneFunction Pausar",
+  "order": 1000,
+  "parent": "TKkToRM7",
+  "path": "PhaserSceneFunction.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "KaMpiuqC",
+  "value": "PhaserSceneFunction",
+  "values": {
+    "stage": "other",
+    "customFunctionName": "Pausar"
+  }
+}

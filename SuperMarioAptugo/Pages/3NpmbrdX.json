@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "SceneVariable winSound",
+  "order": 1000,
+  "parent": "fROMiqQm",
+  "path": "SceneVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "3NpmbrdX",
+  "value": "SceneVariable",
+  "values": {
+    "name": "winSound",
+    "type": "any"
+  }
+}

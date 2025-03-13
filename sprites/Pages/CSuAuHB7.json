@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "PhaserSceneFunction VUELTASFUNCIon",
+  "order": 1000,
+  "parent": "TKkToRM7",
+  "path": "PhaserSceneFunction.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "CSuAuHB7",
+  "value": "PhaserSceneFunction",
+  "values": {
+    "stage": "other",
+    "customFunctionName": "vueltasfuncion",
+    "customFunctionArguments": ""
+  }
+}

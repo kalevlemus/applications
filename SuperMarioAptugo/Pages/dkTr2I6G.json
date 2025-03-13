@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "condition goombas fast",
+  "parent": "qpMNS7p8",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "dkTr2I6G",
+  "value": "condition",
+  "values": {
+    "condition": "Math.abs(distanceX) < 150 && Math.abs(distanceY) < 50 && this.mario.isDead !== true && goomba.isDead !== true",
+    "useInCode": true,
+    "elseOption": ""
+  }
+}

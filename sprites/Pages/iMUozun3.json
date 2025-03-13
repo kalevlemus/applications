@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "WatchForKeys",
+  "order": 1000,
+  "parent": "yTuaoZWR",
+  "path": "CreateWatchForKeys.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "iMUozun3",
+  "value": "CreateWatchForKeys",
+  "values": {
+    "keys": "W,A,S,D"
+  }
+}

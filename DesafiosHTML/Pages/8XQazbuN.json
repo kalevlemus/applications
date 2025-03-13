@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Capitulo 4",
+  "parent": "cXkCz69T",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "8XQazbuN",
+  "value": "div",
+  "values": {
+    "tag": "div"
+  }
+}

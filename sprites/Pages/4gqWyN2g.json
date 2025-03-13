@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "SceneVariable speed",
+  "order": 1000,
+  "parent": "kLxFi7Mw",
+  "path": "SceneVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "4gqWyN2g",
+  "value": "SceneVariable",
+  "values": {
+    "name": "speed",
+    "value": "200",
+    "type": "number"
+  }
+}

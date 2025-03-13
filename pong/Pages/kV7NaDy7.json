@@ -1,0 +1,12 @@
+{
+  "cascades": false,
+  "name": "dummyEncloser Scene Variables",
+  "order": 3,
+  "parent": "6sFQrupe",
+  "path": "dummyEncloser.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "kV7NaDy7",
+  "value": "dummyEncloser",
+  "values": {}
+}

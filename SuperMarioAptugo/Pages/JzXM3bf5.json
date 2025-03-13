@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "SceneSpriteAnims goombaCamina",
+  "order": 1000,
+  "parent": "wvLCLTzl",
+  "path": "SceneSpriteAnims.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "JzXM3bf5",
+  "value": "SceneSpriteAnims",
+  "values": {
+    "spriteName": "goomba",
+    "key": "goombaCamina",
+    "frames": "[0,1]",
+    "frameRate": "7",
+    "repeat": "-1"
+  }
+}

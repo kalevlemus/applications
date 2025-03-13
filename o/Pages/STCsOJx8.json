@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "63syGTy1",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "STCsOJx8",
+  "value": "text",
+  "values": {
+    "Content": "los bizcochos mas ricos del condado"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "Amazon",
+  "parent": "A1w0TBS1",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "OFJKUlWL",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.site_web, theme.amazon"
+  }
+}

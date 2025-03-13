@@ -1,0 +1,20 @@
+{
+  "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",
+  "cascades": false,
+  "childs": [
+    {
+      "name": "Text Content",
+      "element": "text"
+    }
+  ],
+  "name": "SeccionDosTexto",
+  "parent": "MiwwzRCR",
+  "path": "typography.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "8kX8Z96T",
+  "value": "typography",
+  "values": {
+    "tag": "h3"
+  }
+}

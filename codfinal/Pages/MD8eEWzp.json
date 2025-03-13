@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "WIPcBmug",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "MD8eEWzp",
+  "value": "text",
+  "values": {
+    "Content": "REGRESAR"
+  }
+}

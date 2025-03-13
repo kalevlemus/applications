@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "condition fail",
+  "order": 1000,
+  "parent": "00zpnAf2",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "SyAgBzO0",
+  "value": "condition",
+  "values": {
+    "condition": "this.puntosB < 5 && this.puntosA < 5",
+    "useInCode": true
+  }
+}

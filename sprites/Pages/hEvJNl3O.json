@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "checkCollision",
+  "parent": "I3ev6zHB",
+  "path": "checkCollision.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "hEvJNl3O",
+  "value": "checkCollision",
+  "values": {
+    "functionCollision": "collider",
+    "objectA": "moscos",
+    "objectB": "MapColisiones"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "cascades": false,
+  "name": "SceneSprite mario",
+  "order": 1000,
+  "parent": "HNphAt0X",
+  "path": "SceneSprite.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "KoWqA2Gl",
+  "value": "SceneSprite",
+  "values": {
+    "asset": "mario",
+    "posX": "100",
+    "posY": "435",
+    "collide": true,
+    "Physics": true,
+    "scaleX": "2",
+    "scaleY": "2",
+    "bounce": "0.1",
+    "immovable": false,
+    "pushable": false,
+    "bodySizeX": "14",
+    "bodySizeY": "16"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "SceneSound jumpSound",
+  "order": 1000,
+  "parent": "xSSVCyc6",
+  "path": "SceneSound.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "eNaoJhlD",
+  "value": "SceneSound",
+  "values": {
+    "asset": "jumpSound",
+    "volume": "0.05"
+  }
+}

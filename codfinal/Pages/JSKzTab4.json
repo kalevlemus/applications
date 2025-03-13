@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "parent": "2ysel2ZT",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "JSKzTab4",
+  "value": "simpleLink",
+  "values": {
+    "target": "\"_self\"",
+    "destination": "/p5",
+    "tagToUse": "NavLink"
+  }
+}

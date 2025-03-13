@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "condition youWin",
+  "order": 1000,
+  "parent": "0u7c4BZZ",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "2VnAZQLw",
+  "value": "condition",
+  "values": {
+    "condition": "this.mario.body.x > 2290",
+    "useInCode": true
+  }
+}

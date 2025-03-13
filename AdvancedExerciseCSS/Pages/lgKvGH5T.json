@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "o5l5uIC5",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "lgKvGH5T",
+  "value": "text",
+  "values": {
+    "Content": "Ali Express",
+    "className": "theme.WebBottomName"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "PhaserSceneFunction PRELOAD Escena Forest",
+  "order": 1000,
+  "parent": "TKkToRM7",
+  "path": "PhaserSceneFunction.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "5sfZrTI3",
+  "value": "PhaserSceneFunction",
+  "values": {
+    "stage": "preload"
+  }
+}

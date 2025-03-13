@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "AssetLoader mario",
+  "order": 1000,
+  "parent": "8P1G0lEx",
+  "path": "AssetLoader.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "MNAaPxWu",
+  "value": "AssetLoader",
+  "values": {
+    "useAsset": "IQd0uziz",
+    "name": "mario",
+    "useSpritesheet": true,
+    "frameWidth": "18",
+    "frameHeight": "16"
+  }
+}

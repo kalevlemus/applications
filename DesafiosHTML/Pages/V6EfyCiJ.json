@@ -1,0 +1,22 @@
+{
+  "calculatedName": "function (ele) { \n  try {\n    return ele.values.tag\n  } catch(e) {\n    return 'Typography'\n  }\n}",
+  "cascades": false,
+  "childs": [
+    {
+      "name": "Text Content",
+      "element": "text"
+    }
+  ],
+  "name": "h3",
+  "originalName": "typography",
+  "parent": "6d4cUmpx",
+  "path": "typography.tpl",
+  "prevent_delete": false,
+  "renderTag": "(elem) => { return elem.values.tag }",
+  "type": "element",
+  "unique_id": "V6EfyCiJ",
+  "value": "typography",
+  "values": {
+    "tag": "h3"
+  }
+}

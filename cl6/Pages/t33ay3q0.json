@@ -1,0 +1,15 @@
+{
+  "cascades": true,
+  "name": "themeSelection",
+  "open": false,
+  "parent": "15R5efa1",
+  "path": "themeSelection.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "t33ay3q0",
+  "value": "themeSelection",
+  "values": {
+    "theme": "minimum"
+  }
+}

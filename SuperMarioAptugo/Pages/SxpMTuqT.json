@@ -1,0 +1,22 @@
+{
+  "cascades": false,
+  "name": "TilemapCreateBasic",
+  "order": 1000,
+  "parent": "IskfHvBT",
+  "path": "TilemapCreateBasic.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "SxpMTuqT",
+  "value": "TilemapCreateBasic",
+  "values": {
+    "namejson": "jsonmap",
+    "key": "jsonmap",
+    "nametileset": "Tileset",
+    "tilesNameA": "ConjuntoDePatrones",
+    "tilesNameB": "assetmap",
+    "namemapcollision": "mapColisiones",
+    "patternLayer": "Capa de patrones 1",
+    "keyCollides": "colisiones",
+    "valueCollides": "true"
+  }
+}

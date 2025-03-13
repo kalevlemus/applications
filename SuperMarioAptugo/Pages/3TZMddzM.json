@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "PlayAnims marioMuerto",
+  "order": 1000,
+  "parent": "fhivDM4t",
+  "path": "PlayAnims.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "3TZMddzM",
+  "value": "PlayAnims",
+  "values": {
+    "variableName": "mario",
+    "playAnims": "marioMuerto"
+  }
+}

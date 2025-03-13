@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "UpdateCheckForKeyDown",
+  "order": 1000,
+  "parent": "nBDTQFrJ",
+  "path": "UpdateCheckForKeyDown.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "C1AABJXN",
+  "value": "UpdateCheckForKeyDown",
+  "values": {
+    "key": "A,D"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "updateSpriteProperty salto",
+  "order": 1000,
+  "parent": "aWN5hmWZ",
+  "path": "updateSpriteProperty.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "BZZcnXJS",
+  "value": "updateSpriteProperty",
+  "values": {
+    "spriteName": "miroslav",
+    "property": "VelocityY",
+    "newValue": "(-500)"
+  }
+}

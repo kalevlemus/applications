@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "Container",
+  "parent": "dwhiRUtd",
+  "path": "Container.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "dSA0Lcit",
+  "value": "Container",
+  "values": {
+    "maxWidth": "xs",
+    "sx": ""
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "AssetLoader BTNStart",
+  "order": 1000,
+  "parent": "QPlaEE0n",
+  "path": "AssetLoader.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "D5Hn27aM",
+  "value": "AssetLoader",
+  "values": {
+    "name": "BTNStart",
+    "useAsset": "FGLotFOi"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "condition",
+  "parent": "dkTr2I6G",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Poipa4f1",
+  "value": "condition",
+  "values": {
+    "condition": "distanceX < 0",
+    "useInCode": true,
+    "elseOption": ""
+  }
+}

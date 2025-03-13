@@ -1,0 +1,20 @@
+{
+  "backColor": "rgba(6, 201, 210, 0.25)",
+  "cascades": false,
+  "color": "rgb(0,230,230)",
+  "double": true,
+  "name": "MainAreaDos",
+  "order": 1,
+  "parent": "9nFLu8ra",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "HBweGIkw",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "id": "",
+    "class": "theme.mainareados"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "SceneSpriteAnims goombaMuere",
+  "parent": "wvLCLTzl",
+  "path": "SceneSpriteAnims.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "TPL7JUtv",
+  "value": "SceneSpriteAnims",
+  "values": {
+    "spriteName": "goomba",
+    "key": "goombaMuere",
+    "frames": "[2]",
+    "frameRate": "7",
+    "repeat": "-1"
+  }
+}

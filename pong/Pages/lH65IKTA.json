@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "condition Punto para B",
+  "order": 1000,
+  "parent": "00zpnAf2",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "lH65IKTA",
+  "value": "condition",
+  "values": {
+    "condition": "this.ball.x < 300",
+    "useInCode": true
+  }
+}

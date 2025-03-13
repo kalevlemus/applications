@@ -1,0 +1,19 @@
+{
+  "cascades": false,
+  "name": "CreateCamera",
+  "order": 1000,
+  "parent": "1hlhFAJz",
+  "path": "CreateCamera.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "feoTtCvc",
+  "value": "CreateCamera",
+  "values": {
+    "cameraFollow": "mario",
+    "usePhysics": true,
+    "worldSetBoundsX": "0",
+    "worldSetBoundsY": "0",
+    "worldSetBoundsWidth": "2400",
+    "worldSetBoundsHeight": "600"
+  }
+}

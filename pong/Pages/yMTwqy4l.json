@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "condition endGame",
+  "order": 1000,
+  "parent": "UJkRS8pP",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "yMTwqy4l",
+  "value": "condition",
+  "values": {
+    "condition": "this.puntosB === 5 || this.puntosA === 5",
+    "useInCode": true
+  }
+}

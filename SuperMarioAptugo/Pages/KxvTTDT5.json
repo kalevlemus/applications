@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "SceneVariable BTNStart",
+  "order": 1000,
+  "parent": "6CN3DHhP",
+  "path": "SceneVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "KxvTTDT5",
+  "value": "SceneVariable",
+  "values": {
+    "name": "BTNStart",
+    "type": "any"
+  }
+}

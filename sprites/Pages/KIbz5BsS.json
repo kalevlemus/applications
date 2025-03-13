@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "PlayAnims walkRight",
+  "order": 1000,
+  "parent": "Iz5oXgfe",
+  "path": "PlayAnims.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "KIbz5BsS",
+  "value": "PlayAnims",
+  "values": {
+    "variableName": "miroslav",
+    "playAnims": "miroslavDer"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "rS95PlBc",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Otd88gbI",
+  "value": "text",
+  "values": {
+    "Content": "{item.nombrePais}"
+  }
+}

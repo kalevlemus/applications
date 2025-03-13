@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "vr5bPpQL",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "render": "(elem) => { return elem.values.Content }",
+  "renderTag": "span",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "AFKT1v6T",
+  "value": "text",
+  "values": {
+    "Content": "Aplicando Etiquetas HTML con <strong>Aptugo</strong>"
+  }
+}

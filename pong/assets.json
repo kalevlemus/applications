@@ -1,0 +1,67 @@
+[
+  {
+    "type": "image",
+    "id": "uqSi0c0x",
+    "name": "ball.png"
+  },
+  {
+    "type": "image",
+    "id": "cZnAcGVX",
+    "name": "ball2.png"
+  },
+  {
+    "type": "other",
+    "id": "h8aXm8bQ",
+    "name": "beep.mp3"
+  },
+  {
+    "type": "image",
+    "id": "2bsOPiAX",
+    "name": "blue_paddle.png"
+  },
+  {
+    "type": "image",
+    "id": "qixHpeGt",
+    "name": "btn_start.png"
+  },
+  {
+    "type": "image",
+    "id": "isSx0V3w",
+    "name": "btn_start2.png"
+  },
+  {
+    "type": "other",
+    "id": "0vMTdxsW",
+    "name": "fail.mp3"
+  },
+  {
+    "type": "image",
+    "id": "ARs5X3gn",
+    "name": "PongStart.png"
+  },
+  {
+    "type": "image",
+    "id": "BG2xPvQy",
+    "name": "PongStart2.jpeg"
+  },
+  {
+    "type": "image",
+    "id": "JSFHOKsS",
+    "name": "Stadium.png"
+  },
+  {
+    "type": "image",
+    "id": "CAfZkykD",
+    "name": "violet_paddle.png"
+  },
+  {
+    "type": "image",
+    "id": "O8s2Np2H",
+    "name": "wall.png"
+  },
+  {
+    "type": "other",
+    "id": "cQmE2LtU",
+    "name": "win.wav"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "updateSpriteProperty Salto",
+  "parent": "MvmRAS4e",
+  "path": "updateSpriteProperty.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "TgrNVc97",
+  "value": "updateSpriteProperty",
+  "values": {
+    "newValue": "(-265)",
+    "property": "VelocityY",
+    "spriteName": "mario"
+  }
+}

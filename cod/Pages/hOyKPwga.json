@@ -1,0 +1,11 @@
+{
+  "cascades": true,
+  "name": "Language",
+  "open": false,
+  "parent": "deZDFas2",
+  "path": "dummyEncloser.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "hOyKPwga",
+  "value": "dummyEncloser"
+}

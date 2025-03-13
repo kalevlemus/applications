@@ -1,0 +1,72 @@
+[
+  {
+    "type": "image",
+    "id": "bbhOIGDQ",
+    "name": "MarioPresentacion.png"
+  },
+  {
+    "type": "image",
+    "id": "FGLotFOi",
+    "name": "BTNMarioAptugo.png"
+  },
+  {
+    "type": "image",
+    "id": "etmRKsTu",
+    "name": "bg-1-1Mario.png"
+  },
+  {
+    "type": "image",
+    "id": "IQd0uziz",
+    "name": "mario.png"
+  },
+  {
+    "type": "image",
+    "id": "vQptmGyF",
+    "name": "goomba.png"
+  },
+  {
+    "type": "other",
+    "id": "0hwt0gVU",
+    "name": "gameover.mp3"
+  },
+  {
+    "type": "image",
+    "id": "x8dXBdtC",
+    "name": "MitadDelCastillo.png"
+  },
+  {
+    "type": "other",
+    "id": "LmM03ETx",
+    "name": "SuperMarioAptugoDos-modified.json"
+  },
+  {
+    "type": "other",
+    "id": "Wv4fOseX",
+    "name": "win.wav"
+  },
+  {
+    "type": "other",
+    "id": "9HyFOOTX",
+    "name": "theme.mp3"
+  },
+  {
+    "type": "other",
+    "id": "aFWsx1TE",
+    "name": "jump.mp3"
+  },
+  {
+    "type": "other",
+    "id": "8tuik2VJ",
+    "name": "cursed-here-we-go.mp3"
+  },
+  {
+    "type": "other",
+    "id": "iRPUDQ0O",
+    "name": "goomba-stomp.wav"
+  },
+  {
+    "type": "image",
+    "id": "GMPiXzBV",
+    "name": "favicon.png"
+  }
+]

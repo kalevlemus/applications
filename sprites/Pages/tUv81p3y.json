@@ -1,0 +1,20 @@
+{
+  "cascades": false,
+  "name": "SceneImage pausa",
+  "order": 1000,
+  "parent": "TWL9vl8F",
+  "path": "SceneImage.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "tUv81p3y",
+  "value": "SceneImage",
+  "values": {
+    "asset": "pausa",
+    "posX": "700",
+    "posY": "50",
+    "displayX": "100",
+    "displayY": "100",
+    "isInteractive": true,
+    "onClick": "this.Pausar()"
+  }
+}

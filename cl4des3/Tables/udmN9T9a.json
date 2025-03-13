@@ -1,0 +1,97 @@
+{
+  "definedRoutes": [
+    {
+      "route_name": "Get all records",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}",
+      "route_code": null,
+      "route_template": "get"
+    },
+    {
+      "route_name": "Search records",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}/search",
+      "route_code": null,
+      "route_template": "search"
+    },
+    {
+      "route_name": "Retrieve a single record",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "getone"
+    },
+    {
+      "route_name": "Add a record",
+      "route_active": true,
+      "route_method": "post",
+      "route_path": "/api/{{ table.name|friendly|lower }}",
+      "route_code": null,
+      "route_template": "add"
+    },
+    {
+      "route_name": "Update a record",
+      "route_active": true,
+      "route_method": "put",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "update"
+    },
+    {
+      "route_name": "Delete a record",
+      "route_active": true,
+      "route_method": "delete",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "delete"
+    }
+  ],
+  "fields": [
+    {
+      "column_name": "producto",
+      "data_type": "Autocomplete",
+      "key": "Auto Number",
+      "unique_id": "3503uiSx",
+      "length": "11",
+      "relationshipType": "1:m",
+      "reference": "psHiWuLu",
+      "displaytype": "chips"
+    },
+    {
+      "data_type": "Autocomplete",
+      "column_name": "cliente",
+      "unique_id": "Rfto7tK8",
+      "relationshipType": "1:m",
+      "reference": "tKom2H8Z",
+      "displaytype": "chips"
+    },
+    {
+      "data_type": "Number",
+      "column_name": "cantidad",
+      "unique_id": "GCaEeoT8"
+    },
+    {
+      "data_type": "Number",
+      "column_name": "precio",
+      "unique_id": "doFkeaAJ"
+    },
+    {
+      "data_type": "Computed",
+      "column_name": "total",
+      "unique_id": "aHQLkF52",
+      "displaylabel": "",
+      "datatype": "Number",
+      "computeValue": "updatedData['Total'] = data.Precio*data.Cantidad"
+    }
+  ],
+  "name": "Ventas",
+  "singleName": "Single Untitled ",
+  "subtype": "Aptugo",
+  "type": "table",
+  "unique_id": "udmN9T9a",
+  "x": 324,
+  "y": 273
+}

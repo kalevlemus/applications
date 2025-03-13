@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "updateSpriteProperty",
+  "order": 1000,
+  "parent": "CunQX9OT",
+  "path": "updateSpriteProperty.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "9ldZ5vU0",
+  "value": "updateSpriteProperty",
+  "values": {
+    "spriteName": "goomba",
+    "property": "destroy",
+    "withoutThis": true,
+    "withoutSet": true
+  }
+}

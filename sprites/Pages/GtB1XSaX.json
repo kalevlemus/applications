@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "checkCollision",
+  "order": 1000,
+  "parent": "kLxFi7Mw",
+  "path": "checkCollision.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "GtB1XSaX",
+  "value": "checkCollision",
+  "values": {
+    "functionCollision": "overlap",
+    "objectA": "miroslav",
+    "objectB": "albert",
+    "functionCall": "vueltasfuncion"
+  }
+}

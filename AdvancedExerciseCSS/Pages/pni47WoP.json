@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "BookMyShow",
+  "parent": "5zHcOWcv",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "pni47WoP",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.site_web, theme.book_my_show"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "image",
+  "order": 1000,
+  "parent": "Hx29RsOa",
+  "path": "image.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "72Xmx1Wv",
+  "value": "image",
+  "values": {
+    "useAsset": "9GC6zT2l"
+  }
+}

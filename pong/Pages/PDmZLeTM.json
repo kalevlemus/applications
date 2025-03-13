@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "AssetLoader Ball",
+  "order": 1000,
+  "parent": "pJiyEP3e",
+  "path": "AssetLoader.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "PDmZLeTM",
+  "value": "AssetLoader",
+  "values": {
+    "name": "ball",
+    "useAsset": "uqSi0c0x"
+  }
+}

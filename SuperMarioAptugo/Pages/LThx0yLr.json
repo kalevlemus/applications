@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "condition marioMuere al caer",
+  "order": 1000,
+  "parent": "0u7c4BZZ",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "LThx0yLr",
+  "value": "condition",
+  "values": {
+    "useInCode": true,
+    "condition": "this.mario.isDead !== true && this.mario.y >= this.physics.world.bounds.height - this.mario.height - 10"
+  }
+}

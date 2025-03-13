@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "SocialNetworks",
+  "parent": "EsKVx2uK",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "ziim2rf6",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.SocialNetworks"
+  }
+}

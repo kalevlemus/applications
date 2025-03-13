@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "updateSpriteProperty",
+  "order": 1000,
+  "parent": "VRmbV4UO",
+  "path": "updateSpriteProperty.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "UDfRuhQO",
+  "value": "updateSpriteProperty",
+  "values": {
+    "spriteName": "miroslav",
+    "property": "Velocity",
+    "newValue": "0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "parent": "uvoOcQPy",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "h5WBLs1U",
+  "value": "simpleLink",
+  "values": {
+    "destination": "https://www.goibibo.com/",
+    "tagToUse": "A",
+    "target": "_blank"
+  }
+}

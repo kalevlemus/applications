@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "SeccionDosHijo",
+  "parent": "Io9eKxTS",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "zbnhzRWw",
+  "value": "text",
+  "values": {
+    "Content": "SeccionDosHijo"
+  }
+}

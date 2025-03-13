@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "PlaySound themeSound play",
+  "order": 1000,
+  "parent": "fROMiqQm",
+  "path": "PlaySound.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Sti3K7Jo",
+  "value": "PlaySound",
+  "values": {
+    "soundOptions": "play",
+    "asset": "themeSound"
+  }
+}

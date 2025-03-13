@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "PlaySound",
+  "order": 1000,
+  "parent": "sdxi1sHu",
+  "path": "PlaySound.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "pEW1Gk1J",
+  "value": "PlaySound",
+  "values": {
+    "soundOptions": "play",
+    "asset": "beep"
+  }
+}

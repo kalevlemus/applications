@@ -1,0 +1,35 @@
+{
+  "_id": "kXFAoQbsrnAcmctt",
+  "createdAt": 1729029297349,
+  "modifiedAt": 1729029827538,
+  "lastBuild": 1729029827538,
+  "settings": {
+    "name": "HOLA",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "HOLA",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://holalite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/hola"
+    },
+    "stagging": {
+      "apiURL": "https://holalite.aptugo.app",
+      "type": "Local",
+      "folder": "HOLA_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://holalite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/hola"
+    },
+    "production": {
+      "apiURL": "https://holalite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "HOLA",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://holalite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/hola"
+    }
+  }
+}

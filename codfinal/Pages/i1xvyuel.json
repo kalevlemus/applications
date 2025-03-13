@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "WgI1XN8e",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "i1xvyuel",
+  "value": "text",
+  "values": {
+    "Content": "DTIR-30: SIL. QUARTERMASTER, CAÑON LARGO SANCTUM-60, MIRA JACKGLASLESS, CULATA RIFLEMAN 200, CARGADOR 40 "
+  }
+}

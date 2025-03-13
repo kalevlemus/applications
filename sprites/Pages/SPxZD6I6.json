@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "checkCollision",
+  "order": 1000,
+  "parent": "d9frtgSU",
+  "path": "checkCollision.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "SPxZD6I6",
+  "value": "checkCollision",
+  "values": {
+    "functionCollision": "collider",
+    "objectA": "goombas",
+    "objectB": "MapColisiones"
+  }
+}

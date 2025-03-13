@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "TimeoutGame",
+  "order": 1000,
+  "parent": "kV7NaDy7",
+  "path": "TimeoutGame.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "zqDkXf5E",
+  "value": "TimeoutGame",
+  "values": {
+    "valuesTimes": "500"
+  }
+}

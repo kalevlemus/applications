@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "SceneSprite miroslav",
+  "order": 1000,
+  "parent": "cR3NdirX",
+  "path": "SceneSprite.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "RSQwxU7Q",
+  "value": "SceneSprite",
+  "values": {
+    "asset": "miroslav",
+    "posX": "400",
+    "posY": "300",
+    "collide": true,
+    "Physics": true
+  }
+}

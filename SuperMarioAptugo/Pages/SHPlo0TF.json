@@ -1,0 +1,22 @@
+{
+  "cascades": false,
+  "name": "ObjectEnemy goombas",
+  "order": 1000,
+  "parent": "fwT8d4qN",
+  "path": "ObjectEnemy.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "SHPlo0TF",
+  "value": "ObjectEnemy",
+  "values": {
+    "variablenameforloop": "item",
+    "variableName": "goombas",
+    "asset": "goomba",
+    "collide": true,
+    "setX": "this.goombaArray[item - 1]",
+    "setY": "435",
+    "setScaleX": "1.5",
+    "setScaleY": "1.5",
+    "bounce": "1.001, 0"
+  }
+}

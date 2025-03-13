@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "SceneVariable Keys",
+  "order": 1000,
+  "parent": "kV7NaDy7",
+  "path": "SceneVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "fv4FAzHg",
+  "value": "SceneVariable",
+  "values": {
+    "name": "keys"
+  }
+}

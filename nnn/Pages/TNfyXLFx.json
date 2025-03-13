@@ -1,0 +1,20 @@
+{
+  "cascades": false,
+  "name": "PhaserGame",
+  "order": 1000,
+  "parent": "mKrQcBor",
+  "path": "PhaserGame.tpl",
+  "prevent_delete": false,
+  "settings": [
+    {
+      "name": "Packages",
+      "value": "\"phaser\": \"^3.70.0\","
+    }
+  ],
+  "type": "element",
+  "unique_id": "TNfyXLFx",
+  "value": "PhaserGame",
+  "values": {
+    "class": "theme.phaserGame"
+  }
+}

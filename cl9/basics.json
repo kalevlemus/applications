@@ -1,0 +1,35 @@
+{
+  "_id": "f3qHlpOQTxb6FdvD",
+  "createdAt": 1726608088866,
+  "modifiedAt": 1726608504852,
+  "lastBuild": 1726176640998,
+  "settings": {
+    "name": "cl9",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "cl9",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://cl9lite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/cl9"
+    },
+    "stagging": {
+      "apiURL": "https://cl9lite.aptugo.app",
+      "type": "Local",
+      "folder": "cl9_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://cl9lite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/cl9"
+    },
+    "production": {
+      "apiURL": "https://cl9lite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "cl9",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://cl9lite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/cl9"
+    }
+  }
+}

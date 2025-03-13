@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "PlaySound goSound play",
+  "order": 1000,
+  "parent": "soJGxatm",
+  "path": "PlaySound.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "l4hD9PrW",
+  "value": "PlaySound",
+  "values": {
+    "soundOptions": "play",
+    "asset": "goSound"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "UpdateCheckForKeyDown",
+  "parent": "UJkRS8pP",
+  "path": "UpdateCheckForKeyDown.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "1topQP5P",
+  "value": "UpdateCheckForKeyDown",
+  "values": {
+    "key": "W,S"
+  }
+}

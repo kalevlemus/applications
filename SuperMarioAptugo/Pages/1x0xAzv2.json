@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "PlaySound themeSound Pause",
+  "order": 1000,
+  "parent": "fhivDM4t",
+  "path": "PlaySound.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "1x0xAzv2",
+  "value": "PlaySound",
+  "values": {
+    "soundOptions": "stop",
+    "asset": "themeSound"
+  }
+}

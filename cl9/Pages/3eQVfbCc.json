@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "div - Hello Text",
+  "parent": "gFJ9kA8X",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "3eQVfbCc",
+  "value": "div",
+  "values": {
+    "class": "classes.bigHello"
+  }
+}

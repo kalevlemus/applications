@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "QCMR4abb",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "zrkPrtr1",
+  "value": "text",
+  "values": {
+    "Content": "<span>(you can edit me at the Page Manager)</span>"
+  }
+}

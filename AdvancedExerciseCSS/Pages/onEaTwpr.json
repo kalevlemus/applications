@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "ContainerInput",
+  "parent": "EsKVx2uK",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "onEaTwpr",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.ContainerInput"
+  }
+}

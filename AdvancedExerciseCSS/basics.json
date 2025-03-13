@@ -1,0 +1,35 @@
+{
+  "_id": "RpeqLZEumlRcTk8v",
+  "createdAt": 1677521340879,
+  "modifiedAt": 1727391021974,
+  "lastBuild": 1727391021973,
+  "settings": {
+    "name": "AdvancedExerciseCSS",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "AdvancedExerciseCSS",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://advancedexercisecsslite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/advancedexercisecss"
+    },
+    "stagging": {
+      "apiURL": "https://advancedexercisecsslite.aptugo.app",
+      "type": "Local",
+      "folder": "AdvancedExerciseCSS_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://advancedexercisecsslite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/advancedexercisecss"
+    },
+    "production": {
+      "apiURL": "https://advancedexercisecsslite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "AdvancedExerciseCSS",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://advancedexercisecsslite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/advancedexercisecss"
+    }
+  }
+}

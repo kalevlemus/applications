@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "AssetLoader PaddleV",
+  "order": 1000,
+  "parent": "pJiyEP3e",
+  "path": "AssetLoader.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "qUTCv2Rt",
+  "value": "AssetLoader",
+  "values": {
+    "name": "paddleV",
+    "useAsset": "CAfZkykD"
+  }
+}

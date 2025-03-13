@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "PhaserSceneFunction youWin",
+  "order": 1000,
+  "parent": "RZQP3nlF",
+  "path": "PhaserSceneFunction.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "XUP4OFXK",
+  "value": "PhaserSceneFunction",
+  "values": {
+    "stage": "other",
+    "customFunctionName": "youWin"
+  }
+}

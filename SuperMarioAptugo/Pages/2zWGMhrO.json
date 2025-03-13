@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "updateVariable isDead",
+  "order": 1000,
+  "parent": "fhivDM4t",
+  "path": "updateVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "2zWGMhrO",
+  "value": "updateVariable",
+  "values": {
+    "variableName": "mario.isDead",
+    "newValue": "true"
+  }
+}

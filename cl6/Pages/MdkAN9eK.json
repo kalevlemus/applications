@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "0LTvm9BC",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "MdkAN9eK",
+  "value": "text",
+  "values": {
+    "Content": "los mejores churros"
+  }
+}

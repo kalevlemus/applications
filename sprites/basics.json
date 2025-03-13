@@ -1,0 +1,35 @@
+{
+  "_id": "rTT5ggpGty8umBKX",
+  "createdAt": 1733435465300,
+  "modifiedAt": 1740090352388,
+  "lastBuild": 1740090352387,
+  "settings": {
+    "name": "sprites",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "sprites",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://spriteslite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/sprites"
+    },
+    "stagging": {
+      "apiURL": "https://spriteslite.aptugo.app",
+      "type": "Local",
+      "folder": "sprites_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://spriteslite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/sprites"
+    },
+    "production": {
+      "apiURL": "https://spriteslite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "sprites",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://spriteslite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/sprites"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "MH4GSJHH",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "BiqFeR3q",
+  "value": "text",
+  "values": {
+    "Content": "BookMyShow",
+    "className": "theme.WebBottomName"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "cascades": false,
+  "name": "ObjectEnemy moscos",
+  "parent": "zFqI8x7T",
+  "path": "ObjectEnemy.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "fLJOl0go",
+  "value": "ObjectEnemy",
+  "values": {
+    "variablenameforloop": "item",
+    "variableName": "moscos",
+    "asset": "mosco",
+    "setX": "Phaser.Math.Between(250, 2500)",
+    "setY": "450",
+    "collide": true,
+    "bounce": "1.001,0",
+    "setScaleX": "2",
+    "setScaleY": "2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "SceneVariable Miroslav",
+  "order": 1000,
+  "parent": "kLxFi7Mw",
+  "path": "SceneVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "cR3NdirX",
+  "value": "SceneVariable",
+  "values": {
+    "name": "miroslav",
+    "type": "any"
+  }
+}

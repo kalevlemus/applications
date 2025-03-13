@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "uncontrolledInput",
+  "parent": "onEaTwpr",
+  "path": "uncontrolledInput.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "GWsLb7Kr",
+  "value": "uncontrolledInput",
+  "values": {
+    "className": "theme.Seeker",
+    "variant": "outlined",
+    "placeholder": "Search"
+  }
+}

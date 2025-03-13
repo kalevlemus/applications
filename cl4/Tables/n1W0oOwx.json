@@ -1,0 +1,90 @@
+{
+  "definedRoutes": [
+    {
+      "route_name": "Get all records",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}",
+      "route_code": null,
+      "route_template": "get"
+    },
+    {
+      "route_name": "Search records",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}/search",
+      "route_code": null,
+      "route_template": "search"
+    },
+    {
+      "route_name": "Retrieve a single record",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "getone"
+    },
+    {
+      "route_name": "Add a record",
+      "route_active": true,
+      "route_method": "post",
+      "route_path": "/api/{{ table.name|friendly|lower }}",
+      "route_code": null,
+      "route_template": "add"
+    },
+    {
+      "route_name": "Update a record",
+      "route_active": true,
+      "route_method": "put",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "update"
+    },
+    {
+      "route_name": "Delete a record",
+      "route_active": true,
+      "route_method": "delete",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "delete"
+    }
+  ],
+  "fields": [
+    {
+      "column_name": "LIBRO",
+      "data_type": "Autocomplete",
+      "key": "Auto Number",
+      "unique_id": "DrH9qdJ4",
+      "length": "11",
+      "relationshipType": "1:m",
+      "reference": "R68w8GXS",
+      "displaytype": "chips"
+    },
+    {
+      "data_type": "Number",
+      "column_name": "USUARIO",
+      "unique_id": "hJCF8QPR"
+    },
+    {
+      "data_type": "Date",
+      "column_name": "FechaDePrestamo",
+      "unique_id": "OQkazqGB",
+      "dateFormat": "DD/MM/YYYY",
+      "defaultToToday": "0"
+    },
+    {
+      "data_type": "Date",
+      "column_name": "FechaDeDevolucion",
+      "unique_id": "cerm0cpo",
+      "dateFormat": "DD/MM/YYYY",
+      "defaultToToday": "0"
+    }
+  ],
+  "name": "PRESTAMOS",
+  "singleName": "PRESTAMO",
+  "subtype": "Aptugo",
+  "type": "table",
+  "unique_id": "n1W0oOwx",
+  "x": 247,
+  "y": 4
+}

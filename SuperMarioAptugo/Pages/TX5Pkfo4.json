@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "LoadAddCamera",
+  "order": 1000,
+  "parent": "8P1G0lEx",
+  "path": "LoadAddCamera.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "TX5Pkfo4",
+  "value": "LoadAddCamera",
+  "values": {
+    "setBoundsX": "0",
+    "setBoundsY": "0",
+    "setBoundsWidth": "2400",
+    "setBoundsHeight": "600"
+  }
+}

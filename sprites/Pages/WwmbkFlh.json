@@ -1,0 +1,19 @@
+{
+  "cascades": false,
+  "name": "SceneImage Boton Start",
+  "order": 1000,
+  "parent": "ugMU2gqP",
+  "path": "SceneImage.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "WwmbkFlh",
+  "value": "SceneImage",
+  "values": {
+    "asset": "botonstart",
+    "posX": "400",
+    "posY": "480",
+    "displayX": "120",
+    "displayY": "120",
+    "isInteractive": true
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "cascades": false,
+  "name": "SceneTextA",
+  "order": 1000,
+  "parent": "vyKkGCTM",
+  "path": "SceneText.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "KdZFoNHf",
+  "value": "SceneText",
+  "values": {
+    "textdisplay": "Puntos Jugador A: ${this.puntosA}",
+    "size": "14",
+    "font": "Arial Black",
+    "color": "#fff",
+    "posX": "50",
+    "posY": "15"
+  }
+}

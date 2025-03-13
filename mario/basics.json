@@ -1,0 +1,35 @@
+{
+  "_id": "AKZvet5PmD1PTeo5",
+  "createdAt": 1740691992295,
+  "modifiedAt": 1740691994056,
+  "lastBuild": 1740090352387,
+  "settings": {
+    "name": "mario",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "mario",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://mariolite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/mario"
+    },
+    "stagging": {
+      "apiURL": "https://mariolite.aptugo.app",
+      "type": "Local",
+      "folder": "mario_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://mariolite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/mario"
+    },
+    "production": {
+      "apiURL": "https://mariolite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "mario",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://mariolite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/mario"
+    }
+  }
+}

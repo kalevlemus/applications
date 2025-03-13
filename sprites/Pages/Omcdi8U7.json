@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "AssetLoader Imagen Inicial",
+  "order": 1000,
+  "parent": "K4BVnvTG",
+  "path": "AssetLoader.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Omcdi8U7",
+  "value": "AssetLoader",
+  "values": {
+    "name": "imageninicial",
+    "useAsset": "BHNnGCJd",
+    "useSpritesheet": true,
+    "frameWidth": "74",
+    "frameHeight": "74"
+  }
+}

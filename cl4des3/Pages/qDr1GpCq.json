@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "29MTIWJU",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "qDr1GpCq",
+  "value": "text",
+  "values": {
+    "Content": "Y SI NO NOSOSTROS HACEMOS QUE TE ENTRE"
+  }
+}

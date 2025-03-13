@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "parent": "ktVORW8x",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "botitevT",
+  "value": "simpleLink",
+  "values": {
+    "destination": "https://www.myntra.com/",
+    "tagToUse": "A",
+    "target": "_blank"
+  }
+}

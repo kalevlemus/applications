@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "fOvVVBbw",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ynGDmHrW",
+  "value": "text",
+  "values": {
+    "Content": "La era de Black Ops 6 ya está aquí y con el viene una integración completa con Call of Duty: Warzone junto con un nuevo mapa Resurgence. Prepárate para la temporada 01, que se lanzará el 14 de noviembre."
+  }
+}

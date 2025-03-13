@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "SceneSpriteAnims mario walk",
+  "order": 1000,
+  "parent": "ZGvLTd9M",
+  "path": "SceneSpriteAnims.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "rgRBdZbs",
+  "value": "SceneSpriteAnims",
+  "values": {
+    "key": "mariowalk",
+    "spriteName": "mario",
+    "frames": "[1,2,3]",
+    "frameRate": "7",
+    "repeat": "-1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "SceneSound goSound",
+  "order": 1000,
+  "parent": "kgcThWK0",
+  "path": "SceneSound.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "GPmTrALD",
+  "value": "SceneSound",
+  "values": {
+    "asset": "goSound",
+    "volume": "0.3"
+  }
+}

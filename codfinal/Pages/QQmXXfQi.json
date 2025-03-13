@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "pmW0mBbk",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "QQmXXfQi",
+  "value": "text",
+  "values": {
+    "Content": "PARA PODER PARTICIPAR SOLO DEBES SEGUIRNOS EN NUESTRAS REDES SOCIALES"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "updateSpriteProperty",
+  "order": 1000,
+  "parent": "rNXkMBPf",
+  "path": "updateSpriteProperty.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "mpIlcn6a",
+  "value": "updateSpriteProperty",
+  "values": {
+    "property": "Text",
+    "spriteName": "puntaje",
+    "newValue": "`Puntaje: ${this.vueltas += 1}`"
+  }
+}

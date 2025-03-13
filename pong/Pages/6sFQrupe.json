@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "PhaserSceneFunction create",
+  "order": 1000,
+  "parent": "LGQLIIaJ",
+  "path": "PhaserSceneFunction.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "6sFQrupe",
+  "value": "PhaserSceneFunction",
+  "values": {
+    "stage": "create"
+  }
+}

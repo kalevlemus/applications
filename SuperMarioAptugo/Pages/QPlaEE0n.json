@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "PhaserSceneFunction Preload",
+  "order": 1000,
+  "parent": "1KRSEtur",
+  "path": "PhaserSceneFunction.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "QPlaEE0n",
+  "value": "PhaserSceneFunction",
+  "values": {
+    "stage": "preload"
+  }
+}

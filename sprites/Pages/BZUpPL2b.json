@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "CreateGroup goombas",
+  "order": 1000,
+  "parent": "tZKf9b7H",
+  "path": "CreateGroup.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "BZUpPL2b",
+  "value": "CreateGroup",
+  "values": {
+    "groupName": "goombas",
+    "addPhysics": true
+  }
+}

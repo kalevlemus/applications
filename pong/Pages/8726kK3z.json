@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "CreateWatchForKeys",
+  "order": 1000,
+  "parent": "fv4FAzHg",
+  "path": "CreateWatchForKeys.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "8726kK3z",
+  "value": "CreateWatchForKeys",
+  "values": {
+    "keys": "W,S,O,L"
+  }
+}

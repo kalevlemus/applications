@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "updateSpriteProperty W",
+  "parent": "c1FuaQGr",
+  "path": "updateSpriteProperty.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "vc63wDZy",
+  "value": "updateSpriteProperty",
+  "values": {
+    "spriteName": "paddleV",
+    "property": "VelocityY",
+    "newValue": "-150"
+  }
+}

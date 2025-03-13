@@ -1,0 +1,19 @@
+{
+  "cascades": false,
+  "name": "SceneText",
+  "order": 1000,
+  "parent": "Z0NuOcml",
+  "path": "SceneText.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "qhBypbRW",
+  "value": "SceneText",
+  "values": {
+    "textdisplay": "¡Ganó el Jugador B!",
+    "size": "48",
+    "font": "Arial Black",
+    "color": "#FF603D",
+    "posX": "44",
+    "posY": "100"
+  }
+}

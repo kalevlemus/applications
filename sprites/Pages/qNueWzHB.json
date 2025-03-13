@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "SceneText punaje",
+  "order": 1000,
+  "parent": "AMqUbIi1",
+  "path": "SceneText.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "qNueWzHB",
+  "value": "SceneText",
+  "values": {
+    "textdisplay": "Puntaje: ${this.vueltas}",
+    "size": "80",
+    "font": "ARIAL BLACK",
+    "color": "#000000"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "condition",
+  "order": 1000,
+  "parent": "XUP4OFXK",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "klonvqNf",
+  "value": "condition",
+  "values": {
+    "useInCode": true,
+    "condition": "this.mario.body.x > 2360"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "WX4WXCve",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Ugb7brOm",
+  "value": "text",
+  "values": {
+    "Content": "<marquee>CoD al Límite</marquee>"
+  }
+}

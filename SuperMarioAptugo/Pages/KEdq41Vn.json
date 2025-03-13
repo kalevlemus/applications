@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "defineVariable distanceX",
+  "parent": "qpMNS7p8",
+  "path": "defineVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "KEdq41Vn",
+  "value": "defineVariable",
+  "values": {
+    "variableName": "distanceX",
+    "willbeModified": true,
+    "variableValue": "this.mario.x - goomba.x"
+  }
+}

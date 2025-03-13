@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "SceneImage startBackground",
+  "order": 1000,
+  "parent": "6CN3DHhP",
+  "path": "SceneImage.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "5uupCDzu",
+  "value": "SceneImage",
+  "values": {
+    "asset": "startBackground",
+    "posX": "400",
+    "posY": "300",
+    "displayX": "800",
+    "displayY": "600"
+  }
+}

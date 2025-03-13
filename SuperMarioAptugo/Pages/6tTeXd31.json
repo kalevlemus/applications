@@ -1,0 +1,25 @@
+{
+  "cascades": false,
+  "name": "PhaserGame",
+  "order": 1000,
+  "parent": "F5xLKLEM",
+  "path": "PhaserGame.tpl",
+  "prevent_delete": false,
+  "settings": [
+    {
+      "name": "Packages",
+      "value": "\"phaser\": \"^3.70.0\","
+    }
+  ],
+  "type": "element",
+  "unique_id": "6tTeXd31",
+  "value": "PhaserGame",
+  "values": {
+    "Width": "800",
+    "Height": "600",
+    "Debug": false,
+    "WholeScreen": true,
+    "GravityY": "500",
+    "PhysicsEngine": "arcade"
+  }
+}

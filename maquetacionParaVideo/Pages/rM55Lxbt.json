@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "PUTTd0bT",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "rM55Lxbt",
+  "value": "text",
+  "values": {
+    "Content": "<br/>Contenedor"
+  }
+}

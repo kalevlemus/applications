@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "google",
+  "parent": "NmThpDMW",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "9sitICmn",
+  "value": "div",
+  "values": {
+    "class": "classes.bigHello"
+  }
+}

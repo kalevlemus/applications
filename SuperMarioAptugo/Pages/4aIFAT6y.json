@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "AssetLoader goSound",
+  "order": 1000,
+  "parent": "QPlaEE0n",
+  "path": "AssetLoader.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "4aIFAT6y",
+  "value": "AssetLoader",
+  "values": {
+    "useOther": true,
+    "useOtherAsset": "8tuik2VJ",
+    "name": "goSound"
+  }
+}

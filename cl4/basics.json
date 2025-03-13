@@ -1,0 +1,35 @@
+{
+  "_id": "bX3Ha4IUDxmTxwOT",
+  "createdAt": 1724967241058,
+  "modifiedAt": 1724967999578,
+  "lastBuild": 1724967999578,
+  "settings": {
+    "name": "cl4",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "cl4",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://cl4lite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/cl4"
+    },
+    "stagging": {
+      "apiURL": "https://cl4lite.aptugo.app",
+      "type": "Local",
+      "folder": "cl4_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://cl4lite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/cl4"
+    },
+    "production": {
+      "apiURL": "https://cl4lite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "cl4",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://cl4lite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/cl4"
+    }
+  }
+}

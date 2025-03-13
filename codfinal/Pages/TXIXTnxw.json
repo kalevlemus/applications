@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "typography",
+  "parent": "ka63gibh",
+  "path": "typography.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "TXIXTnxw",
+  "value": "typography",
+  "values": {
+    "tag": "h6"
+  }
+}

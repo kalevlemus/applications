@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "LoopGame",
+  "parent": "dmF68EaS",
+  "path": "LoopGame.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "I3ev6zHB",
+  "value": "LoopGame",
+  "values": {
+    "variableName": "moscos",
+    "itemInterate": "mosco"
+  }
+}

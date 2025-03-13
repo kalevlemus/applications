@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "AssetLoader Mapa",
+  "order": 1000,
+  "parent": "pJiyEP3e",
+  "path": "AssetLoader.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "IFm8EHux",
+  "value": "AssetLoader",
+  "values": {
+    "name": "estadio",
+    "useAsset": "JSFHOKsS",
+    "useOther": false
+  }
+}

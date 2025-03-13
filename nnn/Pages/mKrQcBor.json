@@ -1,0 +1,13 @@
+{
+  "cascades": true,
+  "name": "Body",
+  "parent": "qooBSkoL",
+  "path": "b.tpl",
+  "prevent_delete": true,
+  "type": "element",
+  "unique_id": "mKrQcBor",
+  "value": "b",
+  "values": {
+    "className": "theme.body"
+  }
+}

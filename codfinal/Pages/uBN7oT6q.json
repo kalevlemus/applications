@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "TTwaIwTM",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "uBN7oT6q",
+  "value": "text",
+  "values": {
+    "Content": "QUIERES SABER CUALES SON LAS ARMAS META PARA WZ Y BO6? "
+  }
+}

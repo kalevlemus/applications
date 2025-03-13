@@ -1,0 +1,35 @@
+{
+  "_id": "irxlTzIggK1A3Pm4",
+  "createdAt": 1727994751233,
+  "modifiedAt": 1727995966425,
+  "lastBuild": 1727995966424,
+  "settings": {
+    "name": "pan",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "pan",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://panlite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/pan"
+    },
+    "stagging": {
+      "apiURL": "https://panlite.aptugo.app",
+      "type": "Local",
+      "folder": "pan_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://panlite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/pan"
+    },
+    "production": {
+      "apiURL": "https://panlite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "pan",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://panlite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/pan"
+    }
+  }
+}

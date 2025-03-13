@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "SceneSprite WallBottom",
+  "order": 1000,
+  "parent": "n8LEMoGf",
+  "path": "SceneSprite.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "ONqFHAaZ",
+  "value": "SceneSprite",
+  "values": {
+    "asset": "wall",
+    "collide": true,
+    "Physics": true,
+    "posX": "300",
+    "posY": "0"
+  }
+}

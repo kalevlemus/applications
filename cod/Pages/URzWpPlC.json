@@ -1,0 +1,16 @@
+{
+  "cascades": true,
+  "name": "themeSelection",
+  "open": false,
+  "parent": "deZDFas2",
+  "path": "themeSelection.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "URzWpPlC",
+  "value": "themeSelection",
+  "values": {
+    "theme": "minimum",
+    "useAsset": "9TIkae67"
+  }
+}

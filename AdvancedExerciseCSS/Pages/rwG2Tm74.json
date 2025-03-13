@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "simpleLink",
+  "parent": "ozg9mIUO",
+  "path": "simpleLink.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "rwG2Tm74",
+  "value": "simpleLink",
+  "values": {
+    "destination": "https://www.flipkart.com/",
+    "tagToUse": "A",
+    "target": "_blank"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "AssetLoader Beep",
+  "order": 1000,
+  "parent": "pJiyEP3e",
+  "path": "AssetLoader.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "dZ7NXVT0",
+  "value": "AssetLoader",
+  "values": {
+    "name": "beep",
+    "useOther": true,
+    "useOtherAsset": "h8aXm8bQ"
+  }
+}

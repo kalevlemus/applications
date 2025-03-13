@@ -1,0 +1,80 @@
+{
+  "definedRoutes": [
+    {
+      "route_name": "Get all records",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}",
+      "route_code": null,
+      "route_template": "get"
+    },
+    {
+      "route_name": "Search records",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}/search",
+      "route_code": null,
+      "route_template": "search"
+    },
+    {
+      "route_name": "Retrieve a single record",
+      "route_active": true,
+      "route_method": "get",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "getone"
+    },
+    {
+      "route_name": "Add a record",
+      "route_active": true,
+      "route_method": "post",
+      "route_path": "/api/{{ table.name|friendly|lower }}",
+      "route_code": null,
+      "route_template": "add"
+    },
+    {
+      "route_name": "Update a record",
+      "route_active": true,
+      "route_method": "put",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "update"
+    },
+    {
+      "route_name": "Delete a record",
+      "route_active": true,
+      "route_method": "delete",
+      "route_path": "/api/{{ table.name|friendly|lower }}/:ID",
+      "route_code": null,
+      "route_template": "delete"
+    }
+  ],
+  "fields": [
+    {
+      "data_type": "Autocomplete",
+      "column_name": "nomCliente",
+      "unique_id": "A9TnHfml",
+      "relationshipType": "1:1",
+      "reference": "nQkWswZT"
+    },
+    {
+      "column_name": "cantidad de creditos",
+      "data_type": "Number",
+      "key": "Auto Number",
+      "unique_id": "P1ISlT7y",
+      "length": "11"
+    },
+    {
+      "data_type": "Number",
+      "column_name": "dinero en total",
+      "unique_id": "xUBdGGAO"
+    }
+  ],
+  "name": "creditos",
+  "singleName": "credito",
+  "subtype": "Aptugo",
+  "type": "table",
+  "unique_id": "n9QTDas8",
+  "x": 247,
+  "y": 2
+}

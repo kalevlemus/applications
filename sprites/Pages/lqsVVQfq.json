@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "AssetLoader FondoForest",
+  "order": 1000,
+  "parent": "5sfZrTI3",
+  "path": "AssetLoader.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "lqsVVQfq",
+  "value": "AssetLoader",
+  "values": {
+    "name": "forest",
+    "useAsset": "FA7B5lCH"
+  }
+}

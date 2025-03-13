@@ -1,0 +1,35 @@
+{
+  "_id": "TWu4yq0UD7MhDQRy",
+  "createdAt": 1724968058494,
+  "modifiedAt": 1724969138321,
+  "lastBuild": 1724969138320,
+  "settings": {
+    "name": "cl4des3",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "cl4des3",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://cl4des3lite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/cl4des3"
+    },
+    "stagging": {
+      "apiURL": "https://cl4des3lite.aptugo.app",
+      "type": "Local",
+      "folder": "cl4des3_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://cl4des3lite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/cl4des3"
+    },
+    "production": {
+      "apiURL": "https://cl4des3lite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "cl4des3",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://cl4des3lite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/cl4des3"
+    }
+  }
+}

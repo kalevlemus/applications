@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "PlaySound winSound play",
+  "order": 1000,
+  "parent": "XUP4OFXK",
+  "path": "PlaySound.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "sJx3ftk3",
+  "value": "PlaySound",
+  "values": {
+    "soundOptions": "resume",
+    "asset": "winSound"
+  }
+}

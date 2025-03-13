@@ -1,0 +1,20 @@
+{
+  "cascades": false,
+  "name": "button",
+  "parent": "18gDlFoK",
+  "path": "button.tpl",
+  "prevent_delete": false,
+  "render": "(elem) => { return elem.values.ButtonText }",
+  "renderTag": "button",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "0lTFcJ82",
+  "value": "button",
+  "values": {
+    "ButtonText": "Ejercicio Dos",
+    "Color": "primary",
+    "Variant": "contained",
+    "icon": "Send",
+    "fullWidth": false
+  }
+}

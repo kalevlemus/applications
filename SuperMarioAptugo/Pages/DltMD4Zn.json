@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "PlaySound winSound stop",
+  "order": 1000,
+  "parent": "fhivDM4t",
+  "path": "PlaySound.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "DltMD4Zn",
+  "value": "PlaySound",
+  "values": {
+    "soundOptions": "stop",
+    "asset": "winSound"
+  }
+}

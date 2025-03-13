@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "gzJ6twNQ",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "hlEWi6Gv",
+  "value": "text",
+  "values": {
+    "Content": "CON ESTA GUÍA JUGARAS COMO PRO PLAYER"
+  }
+}

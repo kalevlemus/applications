@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "for goombas",
+  "order": 1000,
+  "parent": "wvLCLTzl",
+  "path": "for.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "fwT8d4qN",
+  "value": "for",
+  "values": {
+    "variablename": "item",
+    "from": "1",
+    "until": "<= 4 ",
+    "increment": "item"
+  }
+}

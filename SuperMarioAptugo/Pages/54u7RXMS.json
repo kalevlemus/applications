@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "CallDefinedFunction",
+  "order": 1000,
+  "parent": "2VnAZQLw",
+  "path": "CallDefinedFunction.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "54u7RXMS",
+  "value": "CallDefinedFunction",
+  "values": {
+    "function": "youWin"
+  }
+}

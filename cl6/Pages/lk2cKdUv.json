@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "button",
+  "order": 2,
+  "parent": "kag7TXRT",
+  "path": "button.tpl",
+  "prevent_delete": false,
+  "render": "(elem) => { return elem.values.ButtonText }",
+  "renderTag": "button",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "lk2cKdUv",
+  "value": "button",
+  "values": {
+    "ButtonText": "Button",
+    "Color": "primary"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "SceneVariable puntuado",
+  "order": 1000,
+  "parent": "kLxFi7Mw",
+  "path": "SceneVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "SKTtfNFm",
+  "value": "SceneVariable",
+  "values": {
+    "type": "Boolean",
+    "value": "false",
+    "name": "puntuado"
+  }
+}

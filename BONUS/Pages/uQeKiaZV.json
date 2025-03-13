@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "autolinking",
+  "parent": "7acSufuz",
+  "path": "autolinking.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "uQeKiaZV",
+  "value": "autolinking",
+  "values": {
+    "fromLink": "WKa3gMwq"
+  }
+}

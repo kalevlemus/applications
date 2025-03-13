@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "AssetLoader goomba",
+  "order": 1000,
+  "parent": "5sfZrTI3",
+  "path": "AssetLoader.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "hRl5kXpg",
+  "value": "AssetLoader",
+  "values": {
+    "useAsset": "i9lu1vZ1",
+    "useSpritesheet": true,
+    "frameWidth": "16",
+    "frameHeight": "16",
+    "name": "goomba"
+  }
+}

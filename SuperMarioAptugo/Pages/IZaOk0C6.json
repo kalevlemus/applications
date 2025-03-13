@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "PlaySound winSound play",
+  "order": 1000,
+  "parent": "fROMiqQm",
+  "path": "PlaySound.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "IZaOk0C6",
+  "value": "PlaySound",
+  "values": {
+    "soundOptions": "play",
+    "asset": "winSound"
+  }
+}

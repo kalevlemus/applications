@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "imagen",
+  "order": 1000,
+  "parent": "c5RROStR",
+  "path": "image.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "9nbIqV7T",
+  "value": "image",
+  "values": {
+    "useAsset": "bfzXazvc",
+    "alt": "IMAGEN DE CHURROS",
+    "width": "300",
+    "height": "200"
+  }
+}

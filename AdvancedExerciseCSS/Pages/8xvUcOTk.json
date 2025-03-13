@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "JzAM5Gmp",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "8xvUcOTk",
+  "value": "text",
+  "values": {
+    "Content": "GO",
+    "className": "theme.WebsiteName"
+  }
+}

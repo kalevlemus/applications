@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "div",
+  "parent": "d3SknSOv",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "dwhiRUtd",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "style": "{marginTop: \"50px\"}"
+  }
+}

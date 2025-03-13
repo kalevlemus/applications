@@ -1,0 +1,12 @@
+{
+  "cascades": false,
+  "name": "dummyEncloser TECLA S",
+  "order": 3,
+  "parent": "w2ApNbFb",
+  "path": "dummyEncloser.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "nqOwIDC1",
+  "value": "dummyEncloser",
+  "values": {}
+}

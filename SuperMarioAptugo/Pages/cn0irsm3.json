@@ -1,0 +1,14 @@
+{
+  "cascades": false,
+  "name": "TimeoutGame NextLvl",
+  "order": 1000,
+  "parent": "XUP4OFXK",
+  "path": "TimeoutGame.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "cn0irsm3",
+  "value": "TimeoutGame",
+  "values": {
+    "valuesTimes": "5000"
+  }
+}

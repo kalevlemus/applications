@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "AssetLoader Wall",
+  "order": 1000,
+  "parent": "pJiyEP3e",
+  "path": "AssetLoader.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "GTeGgNFK",
+  "value": "AssetLoader",
+  "values": {
+    "name": "wall",
+    "useAsset": "O8s2Np2H"
+  }
+}

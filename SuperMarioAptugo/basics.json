@@ -1,0 +1,35 @@
+{
+  "_id": "fXqfkVanON3lT1fN",
+  "createdAt": 1729255260849,
+  "modifiedAt": 1741123397593,
+  "lastBuild": 1741123397593,
+  "settings": {
+    "name": "SuperMarioAptugo",
+    "lastSaved": null,
+    "lastBuild": null,
+    "development": {
+      "apiURL": "http://127.0.0.1:4567",
+      "type": "Local",
+      "folder": "SuperMarioAptugo",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://supermarioaptugolite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/supermarioaptugo"
+    },
+    "stagging": {
+      "apiURL": "https://supermarioaptugolite.aptugo.app",
+      "type": "Local",
+      "folder": "SuperMarioAptugo_stagging",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://supermarioaptugolite.aptugo.com",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/supermarioaptugo"
+    },
+    "production": {
+      "apiURL": "https://supermarioaptugolite.backend.aptugo.app",
+      "type": "Remote (Aptugo)",
+      "folder": "SuperMarioAptugo",
+      "template": "5ec1574d22999c4a5e8e0dc7",
+      "url": "https://supermarioaptugolite.aptugo.app",
+      "dbconnectstring": "mongodb://127.0.0.1:27017/supermarioaptugo"
+    }
+  }
+}

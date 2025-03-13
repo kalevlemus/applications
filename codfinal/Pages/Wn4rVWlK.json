@@ -1,0 +1,19 @@
+{
+  "backColor": "rgba(6, 201, 210, 0.25)",
+  "cascades": false,
+  "color": "rgb(0,230,230)",
+  "double": true,
+  "name": "mainareacinco",
+  "order": 1,
+  "parent": "Nwm72LaI",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "Wn4rVWlK",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.mainareacinco"
+  }
+}

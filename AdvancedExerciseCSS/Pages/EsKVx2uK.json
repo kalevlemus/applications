@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "MainContainer",
+  "parent": "sQ17PlqV",
+  "path": "div.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "EsKVx2uK",
+  "value": "div",
+  "values": {
+    "tag": "div",
+    "class": "theme.MainContainer"
+  }
+}

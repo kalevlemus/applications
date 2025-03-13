@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "text",
+  "parent": "IU8bW3hc",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "VKMU3d79",
+  "value": "text",
+  "values": {
+    "Content": "MAS BARATO QUE NUNCA"
+  }
+}

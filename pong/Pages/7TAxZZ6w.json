@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "SceneVariable PB",
+  "order": 1000,
+  "parent": "kV7NaDy7",
+  "path": "SceneVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "7TAxZZ6w",
+  "value": "SceneVariable",
+  "values": {
+    "name": "paddleB",
+    "type": "any"
+  }
+}

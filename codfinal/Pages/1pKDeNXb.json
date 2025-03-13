@@ -1,0 +1,13 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "m3zsuALO",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "1pKDeNXb",
+  "value": "text",
+  "values": {
+    "Content": "AQUÍ ENCONTRARAS LAS MEJORES GUÍAS PARA <br/>        DEJAR DE SER UN MANCO EN WZ"
+  }
+}

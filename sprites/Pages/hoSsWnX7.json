@@ -1,0 +1,18 @@
+{
+  "cascades": false,
+  "name": "SceneImage",
+  "order": 1000,
+  "parent": "ugMU2gqP",
+  "path": "SceneImage.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "hoSsWnX7",
+  "value": "SceneImage",
+  "values": {
+    "asset": "imageninicial",
+    "posX": "400",
+    "posY": "300",
+    "displayX": "800",
+    "displayY": "600"
+  }
+}

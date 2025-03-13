@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "condition resumir",
+  "order": 1000,
+  "parent": "KaMpiuqC",
+  "path": "condition.tpl",
+  "prevent_delete": false,
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "pmL95q88",
+  "value": "condition",
+  "values": {
+    "condition": "this.game.isPaused",
+    "useInCode": true
+  }
+}

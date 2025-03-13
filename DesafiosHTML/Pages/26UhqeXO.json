@@ -1,0 +1,16 @@
+{
+  "cascades": false,
+  "name": "Text Content",
+  "parent": "V6EfyCiJ",
+  "path": "text.tpl",
+  "prevent_delete": false,
+  "render": "(elem) => { return elem.values.Content }",
+  "renderTag": "span",
+  "sourceType": "javascript",
+  "type": "element",
+  "unique_id": "26UhqeXO",
+  "value": "text",
+  "values": {
+    "Content": "<mark><u>¿Qué es Aptugo?</u></mark>"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "cascades": false,
+  "name": "SceneVariable themeSound",
+  "order": 1000,
+  "parent": "fROMiqQm",
+  "path": "SceneVariable.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "MMu4i176",
+  "value": "SceneVariable",
+  "values": {
+    "name": "themeSound",
+    "type": "any"
+  }
+}

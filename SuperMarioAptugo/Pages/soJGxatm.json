@@ -1,0 +1,19 @@
+{
+  "cascades": false,
+  "name": "SceneImage BTNStart",
+  "order": 1000,
+  "parent": "KxvTTDT5",
+  "path": "SceneImage.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "soJGxatm",
+  "value": "SceneImage",
+  "values": {
+    "asset": "BTNStart",
+    "posX": "400",
+    "posY": "430",
+    "displayX": "100",
+    "displayY": "55",
+    "isInteractive": true
+  }
+}

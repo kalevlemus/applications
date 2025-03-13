@@ -1,0 +1,17 @@
+{
+  "cascades": false,
+  "name": "updateSpriteProperty A",
+  "order": 1000,
+  "parent": "1ByczFZZ",
+  "path": "updateSpriteProperty.tpl",
+  "prevent_delete": false,
+  "type": "element",
+  "unique_id": "Qs8X48dr",
+  "value": "updateSpriteProperty",
+  "values": {
+    "spriteName": "miroslav",
+    "property": "VelocityX",
+    "newValue": "-1*this.speed",
+    "withoutSet": false
+  }
+}
